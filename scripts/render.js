@@ -28,6 +28,62 @@ function cardImage(dossier) {
   return `<span class="card-media"><img src="${dossier.image[0]}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"></span>`;
 }
 
+function dossierCard(dossier) {
+  return '<button class="card" data-dossier="' + escapeHTML(dossier.id) + '" aria-haspopup="dialog">' +
+    cardImage(dossier) +
+    '<span class="tag">' + escapeHTML(dossier.date) + '</span>' +
+    '<h4>' + escapeHTML(dossier.title) + '</h4>' +
+    '<p>' + escapeHTML(dossier.deck) + '</p>' +
+    '<span class="action">Aprofundar leitura ↗</span></button>';
+}
+
+function dossierGroupsFor(period) {
+  const periodDossiers = dossiers.filter(dossier => dossier.period === period.id);
+  const assigned = new Set();
+  const groups = (dossierThemes[period.id] || []).map(theme => {
+    const items = theme.dossierIds
+      .map(id => periodDossiers.find(dossier => dossier.id === id))
+      .filter(dossier => dossier && !assigned.has(dossier.id));
+    items.forEach(dossier => assigned.add(dossier.id));
+    return {...theme, items};
+  }).filter(group => group.items.length);
+  const remaining = periodDossiers.filter(dossier => !assigned.has(dossier.id));
+  if (remaining.length) groups.push({id:'outros-temas', title:'Outros temas', items:remaining});
+  return groups;
+}
+
+function dossierThemeLabel(dossier) {
+  const theme = (dossierThemes[dossier.period] || []).find(item => item.dossierIds.includes(dossier.id));
+  return theme ? theme.title : 'Outros temas';
+}
+
+function renderDossierGroups(period) {
+  const groups = dossierGroupsFor(period);
+  if (!groups.length) return '<p class="empty-dossiers">Não há dossiês cadastrados para este período.</p>';
+  const prefix = 'theme-' + period.id + '-';
+  const index = groups.length > 1
+    ? '<nav class="theme-index" aria-label="Navegação por tema"><strong>Ir para tema</strong>' +
+      groups.map(group => '<button type="button" class="theme-link" data-theme-target="' + prefix + group.id + '">' +
+        escapeHTML(group.title) + '<small>' + group.items.length + '</small></button>').join('') + '</nav>'
+    : '';
+  const sections = groups.map(group => {
+    const headingId = prefix + 'heading-' + group.id;
+    const count = group.items.length === 1 ? '1 dossiê' : group.items.length + ' dossiês';
+    return '<section class="dossier-theme" id="' + prefix + group.id + '" aria-labelledby="' + headingId + '">' +
+      '<div class="dossier-theme-heading"><h4 id="' + headingId + '">' + escapeHTML(group.title) + '</h4><span>' + count + '</span></div>' +
+      '<div class="cards">' + group.items.map(dossierCard).join('') + '</div></section>';
+  }).join('');
+  return index + '<div class="dossier-themes">' + sections + '</div>';
+}
+
+function printDossierGroups(period) {
+  return dossierGroupsFor(period).map(group =>
+    '<h3>' + escapeHTML(group.title) + '</h3>' +
+    group.items.map(dossier => '<h4>' + escapeHTML(dossier.title) + ' — ' + escapeHTML(dossier.date) +
+      '</h4><div class="prose">' + prose(dossier.text) + '</div>' + refs(dossier.refs)).join('')
+  ).join('');
+}
+
 function society(period) {
   return `<div class="social">${period.social.map(row => `<div><h4>${escapeHTML(row[0])}</h4><p>${escapeHTML(row[1])}</p></div>`).join('')}</div>`;
 }
@@ -60,7 +116,7 @@ function periodDetails(period) {
 }
 
 function render() {
-  $('#panels').innerHTML = periods.map((period, index) => `<section id="panel-${period.id}" class="period" role="tabpanel" aria-labelledby="tab-${period.id}" tabindex="0" ${period.id !== active ? 'hidden' : ''}><div class="period-heading"><div><div class="eyebrow">${escapeHTML(period.kicker)}</div><h2>${escapeHTML(period.title)}</h2><span class="status">${escapeHTML(period.years)}</span></div><div class="period-number" aria-hidden="true">${String(index + 1).padStart(2, '0')}</div></div><div class="${period.image ? 'lead-grid' : ''}"><div class="prose">${prose(period.overview)}</div>${figure(period.image)}</div><div class="note">${escapeHTML(period.note)}</div><div class="section-title"><h3>Dossiês de aprofundamento</h3><span>Clique para abrir • Esc para fechar</span></div><div class="cards">${dossiers.filter(dossier => dossier.period === period.id).map(dossier => `<button class="card" data-dossier="${dossier.id}" aria-haspopup="dialog">${cardImage(dossier)}<span class="tag">${escapeHTML(dossier.date)}</span><h4>${escapeHTML(dossier.title)}</h4><p>${escapeHTML(dossier.deck)}</p><span class="action">Aprofundar leitura ↗</span></button>`).join('')}</div>${periodDetails(period)}${refs(period.refs)}<div class="reading-actions">${index > 0 ? `<button data-tab="${periods[index - 1].id}">← ${escapeHTML(periods[index - 1].tab)}</button>` : ''}${index < periods.length - 1 ? `<button data-tab="${periods[index + 1].id}">Próxima leitura →</button>` : ''}</div></section>`).join('');
+  $('#panels').innerHTML = periods.map((period, index) => `<section id="panel-${period.id}" class="period" role="tabpanel" aria-labelledby="tab-${period.id}" tabindex="0" ${period.id !== active ? 'hidden' : ''}><div class="period-heading"><div><div class="eyebrow">${escapeHTML(period.kicker)}</div><h2>${escapeHTML(period.title)}</h2><span class="status">${escapeHTML(period.years)}</span></div><div class="period-number" aria-hidden="true">${String(index + 1).padStart(2, '0')}</div></div><div class="${period.image ? 'lead-grid' : ''}"><div class="prose">${prose(period.overview)}</div>${figure(period.image)}</div><div class="note">${escapeHTML(period.note)}</div><div class="section-title"><h3>Dossiês por tema</h3><span>Escolha um assunto e abra o dossiê que quer ler</span></div>${renderDossierGroups(period)}${periodDetails(period)}${refs(period.refs)}<div class="reading-actions">${index > 0 ? `<button data-tab="${periods[index - 1].id}">← ${escapeHTML(periods[index - 1].tab)}</button>` : ''}${index < periods.length - 1 ? `<button data-tab="${periods[index + 1].id}">Próxima leitura →</button>` : ''}</div></section>`).join('');
   $('#dossier-count').textContent = dossiers.length;
   $('#period-count').textContent = periods.length;
   renderTabs(currentEra);

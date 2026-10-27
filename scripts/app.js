@@ -56,8 +56,9 @@ function search() {
     }
   });
   dossiers.forEach(dossier => {
-    if (normalize([dossier.title, dossier.deck, dossier.text].join(' ')).includes(query)) {
-      matches.push({type:'dossier', id:dossier.id, title:dossier.title, detail:periods.find(period => period.id === dossier.period).tab});
+    const theme = dossierThemeLabel(dossier);
+    if (normalize([dossier.title, dossier.deck, dossier.text, theme].join(' ')).includes(query)) {
+      matches.push({type:'dossier', id:dossier.id, title:dossier.title, detail:periods.find(period => period.id === dossier.period).tab + ' • ' + theme});
     }
   });
 
@@ -77,7 +78,7 @@ function search() {
 }
 
 function preparePrint() {
-  $('#print-area').innerHTML = `<h1>Arquivo História do Brasil</h1><p>Império e República • 1822–Presente • República: recorte de 21/10/2026 • Império: revisão de 27/10/2026 • Texto integral dos períodos e dossiês.</p>${periods.map(period => `<section><h2>${escapeHTML(period.tab)} — ${escapeHTML(period.years)}</h2><div class="prose">${prose(period.overview)}</div><p>${escapeHTML(period.note)}</p>${period.social ? `<h3>Sociedade</h3>${society(period)}<h3>${period.rulers ? 'Imperadores e regentes' : 'Presidências'}</h3>${period.rulers ? rulers(period) : presidents(period)}` : comparison()}${dossiers.filter(dossier => dossier.period === period.id).map(dossier => `<h3>${escapeHTML(dossier.title)} — ${escapeHTML(dossier.date)}</h3><div class="prose">${prose(dossier.text)}</div>${refs(dossier.refs)}`).join('')}${refs(period.refs)}</section>`).join('')}`;
+  $('#print-area').innerHTML = `<h1>Arquivo História do Brasil</h1><p>Império e República • 1822–Presente • República: recorte de 21/10/2026 • Império: revisão de 27/10/2026 • Texto integral dos períodos e dossiês.</p>${periods.map(period => `<section><h2>${escapeHTML(period.tab)} — ${escapeHTML(period.years)}</h2><div class="prose">${prose(period.overview)}</div><p>${escapeHTML(period.note)}</p>${period.social ? `<h3>Sociedade</h3>${society(period)}<h3>${period.rulers ? 'Imperadores e regentes' : 'Presidências'}</h3>${period.rulers ? rulers(period) : presidents(period)}` : comparison()}${printDossierGroups(period)}${refs(period.refs)}</section>`).join('')}`;
 }
 
 function updateProgress() {
@@ -91,9 +92,14 @@ document.addEventListener('click', event => {
   const era = event.target.closest('[data-era]');
   const tab = event.target.closest('[data-tab]');
   const dossier = event.target.closest('[data-dossier]');
+  const themeTarget = event.target.closest('[data-theme-target]');
   if (era) navigate(lastTabByEra[era.dataset.era]);
   if (tab) navigate(tab.dataset.tab);
   if (dossier) openDossier(dossier.dataset.dossier);
+  if (themeTarget) {
+    const target = document.getElementById(themeTarget.dataset.themeTarget);
+    if (target) target.scrollIntoView({block:'start'});
+  }
 });
 
 $('#tabs').addEventListener('keydown', event => {
