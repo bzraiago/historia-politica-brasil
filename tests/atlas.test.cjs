@@ -54,7 +54,7 @@ for (const dossier of model.dossiers) assert.ok(model.periods.some(period => per
 
 const imperialPeriods = model.periods.filter(period => period.era === 'imperio');
 const imperialDossiers = model.dossiers.filter(dossier => imperialPeriods.some(period => period.id === dossier.period));
-assert.equal(imperialDossiers.length, 32);
+assert.equal(imperialDossiers.length, 33);
 for (const item of [...imperialPeriods, ...imperialDossiers]) {
   assert.equal(item.image?.length >= 4, true, `Imagem ausente: ${item.id}`);
   assert.match(item.image[0], /^https:\/\/(?:thumb|upload)\.wikimedia\.org\//);

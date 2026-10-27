@@ -92,6 +92,82 @@ const imperialSources = {
     "Senado — Lei Saraiva e restrição eleitoral em 1881",
     "https://webstories.senado.leg.br/web-stories/eleicoes-180-anos-da-lei-que-organizou-o-voto-no-brasil/"
   ],
+  "imp_religiao_constituicao_an": [
+    "Arquivo Nacional — Constituição de 1824: religião do Império e limites ao culto público",
+    "https://www.gov.br/arquivonacional/pt-br/sites_eventos/sites-tematicos-1/brasil-oitocentista/documentos/constituicao-para-o-imperio-do-brasil"
+  ],
+  "imp_religiao_codigocriminal": [
+    "Presidência da República — Código Criminal de 1830, art. 276, culto de religiões diferentes da oficial",
+    "https://www.planalto.gov.br/ccivil_03/leis/lim/lim-16-12-1830.htm"
+  ],
+  "imp_religiao_pluralidade": [
+    "Arquivo Nacional — Liberdade religiosa e limites aos cultos não católicos no Império",
+    "https://mapa.arquivonacional.gov.br/images/publicacoes/190anosMJ/ministerio-da-justica/assets/basic-html/page-25.html"
+  ],
+  "imp_religiao_irmandades": [
+    "Arquivo Nacional — Irmandades, devoção leiga e assistência comunitária",
+    "https://historialuso.arquivonacional.gov.br/index.php/historia-luso-brasileira/assuntos/listadetemas/irmandades"
+  ],
+  "imp_religiao_feijo": [
+    "Senado Federal — Diogo Antônio Feijó, sacerdote e regente",
+    "https://www25.senado.leg.br/web/senadores/senador/-/perfil/1574"
+  ],
+  "imp_religiao_questao": [
+    "Senado Federal e Arquivo Nacional — Atas do Conselho de Estado sobre a Questão Religiosa (1875–1880)",
+    "https://www.senado.leg.br/publicacoes/anais/pdf/ace/atas10-terceiro_conselho_de_estado_1875-1880.pdf"
+  ],
+  "imp_religiao_questao_1873": [
+    "Senado Federal e Arquivo Nacional — Atas do Conselho de Estado (1868–1873), documentos da Questão Religiosa",
+    "https://www.senado.gov.br/publicacoes/anais/pdf/ACE/ATAS8-Terceiro_Conselho_de_Estado_1868-1873.pdf"
+  ],
+  "imp_religiao_vital": [
+    "Fundaj — Dom Vital, bispo de Olinda durante a Questão Religiosa",
+    "https://pesquisaescolar.fundaj.gov.br/pt-br/artigo/dom-vital/"
+  ],
+  "imp_religiao_isabel": [
+    "Santuário Nacional de Aparecida — Visitas de Pedro I, Pedro II e princesa Isabel; promessa e coroa",
+    "https://www.a12.com/santuario/historia-de-nossa-senhora-aparecida-1800"
+  ],
+  "imp_religiao_coroacao": [
+    "Santuário Nacional de Aparecida — Coroação da imagem em 1904 e autorização de Pio X",
+    "https://www.a12.com/santuario/noticias/110-anos-da-coroacao-de-nossa-senhora-aparecida-a-plenitude-da-bem-aventuranca"
+  ],
+  "imp_religiao_bn": [
+    "Biblioteca Nacional Digital — Nossa Senhora Aparecida e a cronologia da doação de Isabel",
+    "https://bndigital.bn.gov.br/artigos/12-de-outubro-dia-de-nossa-senhora-da-conceicao-aparecida/"
+  ],
+  "imp_religiao_abolicao": [
+    "Santa Sé — Leão XIII, encíclica In Plurimis aos bispos do Brasil (5 de maio de 1888)",
+    "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_05051888_in_plurimis.html"
+  ],
+  "imp_religiao_afonso": [
+    "Santa Sé — Santo Afonso Maria de Ligório: canonização e reconhecimento como Doutor da Igreja",
+    "https://www.causesanti.va/it/santi-e-beati/alfonso-maria-de-liguori.html"
+  ],
+  "imp_religiao_claver": [
+    "Santa Sé — São Pedro Claver, canonizado em 1888",
+    "https://www.causesanti.va/it/santi-e-beati/pietro-claver.html"
+  ],
+  "imp_religiao_victor": [
+    "Santa Sé — Padre Francisco de Paula Victor, sacerdote brasileiro do século XIX",
+    "https://www.causesanti.va/it/santi-e-beati/francisco-de-paula-victor.html"
+  ],
+  "imp_religiao_victor_acta": [
+    "Santa Sé — Acta Apostolicae Sedis: processo de beatificação e vida de Francisco de Paula Victor",
+    "https://press.vatican.va/archive/aas/documents/2019/acta-agosto2019.pdf"
+  ],
+  "imp_religiao_nhachica": [
+    "Santa Sé — Nhá Chica, leiga brasileira cuja vida atravessou o Império",
+    "https://www.causesanti.va/it/santi-e-beati/francisca-de-paula-de-jesus-nha-chica.html"
+  ],
+  "imp_religiao_republica": [
+    "Presidência da República — Decreto nº 119-A, de 7 de janeiro de 1890: liberdade de cultos e extinção do padroado",
+    "https://www.planalto.gov.br/ccivil_03/decreto/1851-1899/d119-a.htm"
+  ],
+  "imp_religiao_constituicao_1891": [
+    "Presidência da República — Constituição de 1891, texto original",
+    "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao91.htm"
+  ],
   "imp_religiao": [
     "Funarte — Questão Religiosa e relações entre Igreja e Estado",
     "https://funartemaisdigital.funarte.gov.br/periodicos/o-cetro-contra-o-baculo/"
