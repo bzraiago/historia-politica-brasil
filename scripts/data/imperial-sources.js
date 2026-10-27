@@ -92,6 +92,22 @@ const imperialSources = {
     "Senado — Lei Saraiva e restrição eleitoral em 1881",
     "https://webstories.senado.leg.br/web-stories/eleicoes-180-anos-da-lei-que-organizou-o-voto-no-brasil/"
   ],
+  "imp_constituicao_1824_original": [
+    "Câmara dos Deputados — Constituição de 1824, texto original (arts. 90–95)",
+    "https://www2.camara.leg.br/legin/fed/consti/1824-1899/constituicao-35041-25-marco-1824-532540-publicacaooriginal-14770-pl.html"
+  ],
+  "imp_eleicoes_1846": [
+    "Câmara dos Deputados — Lei eleitoral de 19 de agosto de 1846, texto original",
+    "https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-387-19-agosto-1846-555122-publicacaooriginal-83186-pl.html"
+  ],
+  "imp_lei_saraiva_1881_original": [
+    "Câmara dos Deputados — Decreto nº 3.029/1881 (Lei Saraiva), texto original",
+    "https://www2.camara.leg.br/legin/fed/decret/1824-1899/decreto-3029-9-janeiro-1881-546079-publicacaooriginal-59786-pl.html"
+  ],
+  "imp_regulamento_eleitoral_1881": [
+    "Câmara dos Deputados — Decreto nº 8.213/1881, regulamento eleitoral e alistamento",
+    "https://www2.camara.leg.br/legin/fed/decret/1824-1899/decreto-8213-13-agosto-1881-546457-publicacaooriginal-60487-pe.html"
+  ],
   "imp_religiao_constituicao_an": [
     "Arquivo Nacional — Constituição de 1824: religião do Império e limites ao culto público",
     "https://www.gov.br/arquivonacional/pt-br/sites_eventos/sites-tematicos-1/brasil-oitocentista/documentos/constituicao-para-o-imperio-do-brasil"
