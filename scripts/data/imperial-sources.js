@@ -483,5 +483,89 @@ const imperialSources = {
   "imp_fotografia": [
     "Biblioteca Nacional — Coleção Thereza Christina Maria e aquisição de fotografias",
     "https://www.gov.br/bn/pt-br/atuacao/colecoes-e-servicos-aos-leitores/manuscritos/artigos-manuscritos/thereza-christina-maria"
+  ],
+  "imp_jose_bonifacio": [
+    "Biblioteca Nacional — Coleção de manuscritos de José Bonifácio",
+    "https://www.gov.br/bn/pt-br/atuacao/colecoes-e-servicos-aos-leitores/manuscritos/artigos-manuscritos/colecoes-da-secao-de-manuscritos-jose-bonifacio"
+  ],
+  "imp_bonifacio_acervo": [
+    "Arquivo Nacional — José Bonifácio de Andrada e Silva: biografia e documentos",
+    "https://mapa.arquivonacional.gov.br/index.php/mapa/centrais-de-conteudo/producao/biografias/431-jose-bonifacio-de-andrada-e-silva"
+  ],
+  "imp_bonifacio_representacao": [
+    "MultiRio — Representação de José Bonifácio sobre a escravidão, 1823",
+    "https://multirio.rio.rj.gov.br/index.php/historia-do-brasil/brasil-monarquico/8892-jos%C3%A9-bonif%C3%A1cio-sua-representa%C3%A7%C3%A3o-sobre-a-escravid%C3%A3o-no-brasil"
+  ],
+  "imp_andre_reboucas": [
+    "Arquivo Nacional — André Pinto Rebouças: biografia e acervo",
+    "https://mapa.arquivonacional.gov.br/index.php/mapa/centrais-de-conteudo/producao/biografias/547-andre-pinto-reboucas"
+  ],
+  "imp_andre_reboucas_fundaj": [
+    "Fundação Joaquim Nabuco — André Rebouças: engenharia e abolicionismo",
+    "https://pesquisaescolar.fundaj.gov.br/pt-br/artigo/andre-reboucas/"
+  ],
+  "imp_manifesto_abolicionista": [
+    "Biblioteca do Senado / Rede Memória — Manifesto da Confederação Abolicionista, 1883 (fonte primária)",
+    "https://redememoria.bn.gov.br/redeMemoria/handle/20.500.12156.2/308129"
+  ],
+  "imp_machado_abl": [
+    "Academia Brasileira de Letras — Machado de Assis: biografia",
+    "https://www2.academia.org.br/academicos/machado-de-assis/biografia"
+  ],
+  "imp_machado_bndigital": [
+    "Biblioteca Nacional Digital — Machado de Assis: biografia e acervo",
+    "https://bndigital.bn.gov.br/machado-de-assis-2/"
+  ],
+  "imp_machado_acervo_digital": [
+    "MEC / Universidade Federal de Santa Catarina — Coleção Digital Machado de Assis",
+    "https://machado.mec.gov.br/"
+  ],
+  "imp_caxias_arquivo_nacional": [
+    "Arquivo Nacional — Duque de Caxias: biografia e acervo",
+    "https://www.gov.br/arquivonacional/pt-br/sites_eventos/sites-tematicos-1/brasil-oitocentista/conheca-o-acervo/duque-de-caxias-rt/"
+  ],
+  "imp_caxias_bndigital": [
+    "Biblioteca Nacional Digital — Duque de Caxias na Guerra do Paraguai",
+    "https://bndigital.bn.gov.br/dossies/guerra-do-paraguai/os-personagens/duque-de-caxias/"
+  ],
+  "imp_luiz_gama_apesp": [
+    "Arquivo Público do Estado de São Paulo — Memória do Mundo: Luiz Gama no Arquivo",
+    "https://revista.arquivoestado.sp.gov.br/secoes/novidades/memoria-do-mundo-luiz-gama-no-arquivo/"
+  ],
+  "imp_luiz_gama_palmares": [
+    "Fundação Cultural Palmares — Luís Gama: jornalista, poeta e abolicionista",
+    "https://www.gov.br/palmares/pt-br/assuntos/noticias/personalidades-negras-2013-luis-gama"
+  ],
+  "imp_maria_firmina_secult": [
+    "Fundação Pedro Calmon / Secretaria de Cultura da Bahia — Maria Firmina dos Reis",
+    "https://www.ba.gov.br/cultura/noticia/2024-02/61427/conheca-maria-firmina-dos-reis-primeira-mulher-lancar-um-livro-no-brasil"
+  ],
+  "imp_ursula_ufsc": [
+    "Universidade Federal de Santa Catarina — Úrsula, edição de 1859 em acervo digital (fonte primária)",
+    "https://literaturabrasileira.ufsc.br/documentos?id=195838&locale=pt_BR"
+  ],
+  "imp_joaquim_nabuco_abl": [
+    "Academia Brasileira de Letras — Joaquim Nabuco: biografia",
+    "https://www.academia.org.br/academicos/joaquim-nabuco/biografia"
+  ],
+  "imp_nabuco_o_abolicionismo": [
+    "Biblioteca Digital do Ministério da Justiça — O Abolicionismo, 1883 (fonte primária)",
+    "https://bibliotecadigital.mj.gov.br/handle/1/8840?locale=pt_BR"
+  ],
+  "imp_nabuco_funag": [
+    "FUNAG / Ministério das Relações Exteriores — Joaquim Nabuco: diplomata e político",
+    "https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/personalidades-historicas/joaquim-aurelio-barreto-de-nabuco-de-araujo"
+  ],
+  "imp_patrocinio_bndigital": [
+    "Biblioteca Nacional Digital — José do Patrocínio e a imprensa abolicionista",
+    "https://bndigital.bn.gov.br/artigos/o-abolicionista-jose-do-patrocinio/"
+  ],
+  "imp_patrocinio_abl": [
+    "Academia Brasileira de Letras — José do Patrocínio: biografia",
+    "https://www2.academia.org.br/academicos/jose-do-patrocinio/biografia"
+  ],
+  "imp_reboucas_abolicionismo_imediato": [
+    "Biblioteca Nacional Digital — André Rebouças, Abolição Immediata e sem Indemnisação (fonte primária, 1883)",
+    "https://bdlb.bn.gov.br/acervo/handle/20.500.12156.3/442859?locale-attribute=en"
   ]
 };

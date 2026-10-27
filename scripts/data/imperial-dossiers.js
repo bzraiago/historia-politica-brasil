@@ -838,4 +838,166 @@ Terceira viagem — Europa (1887–1888)
 Pedro II embarcou no Rio de Janeiro em 30 de junho de 1887. O trajeto passou por Portugal e Espanha antes da chegada à França, onde consultou médicos, entre eles Jean-Martin Charcot. Seguiu para Baden-Baden, na Alemanha, para repouso e tratamento, e depois permaneceu em Cannes. Após esses períodos de repouso, retomou o roteiro em direção à Itália. Em abril de 1888, o diário registra visitas em Veneza, incluindo a oficina de vidro de Murano e o convento armênio de San Lazzaro; a viagem também incluiu Pompeia. O estado de saúde voltou a se agravar durante a etapa italiana. Em 5 de agosto de 1888, embarcou em Bordeaux e chegou ao Rio de Janeiro no dia 22.
 Influência documentável: nesta viagem, os registros mostram sobretudo como a saúde condicionou o cotidiano e o itinerário do imperador. Os cadernos anotam consultas, repouso, tratamentos, estudos e visitas culturais, sem identificar uma mudança política atribuída à viagem. A ausência prolongada teve uma consequência institucional verificável: Isabel exerceu a Regência e sancionou a Lei Áurea em 13 de maio de 1888, durante a viagem.`
   },
+  {
+    "id": "jose-bonifacio",
+    "period": "primeiro-reinado",
+    "title": "José Bonifácio: ciência e formação do Estado",
+    "date": "1763–1838 | atuação política no Império: 1821–1838",
+    "deck": "Naturalista e dirigente político, participou da Independência e apresentou propostas para a organização da nova monarquia.",
+    "refs": [
+      "imp_jose_bonifacio",
+      "imp_bonifacio_acervo",
+      "imp_bonifacio_representacao"
+    ],
+    "text": `Formação científica e retorno ao Brasil
+José Bonifácio de Andrada e Silva nasceu em Santos e estudou em Coimbra, onde se formou em filosofia natural e direito. Atuou em Portugal como professor e funcionário ligado à mineração e integrou a Academia Real das Ciências de Lisboa. Regressou ao Brasil em 1819 e passou a participar das disputas políticas de São Paulo sobre a autonomia e o vínculo com as Cortes portuguesas.
+
+Independência e governo
+Em 1821, José Bonifácio ganhou destaque na política paulista; no ano seguinte, D. Pedro o nomeou ministro do Reino e dos Negócios Estrangeiros. Participou da organização do primeiro governo do Brasil independente e defendeu a separação de Portugal sob uma monarquia constitucional. As divergências com Pedro I se agravaram em 1823: após a dissolução da Assembleia Constituinte, Bonifácio foi afastado e seguiu para o exílio na França. Retornou em 1829 e, depois da abdicação de Pedro I, foi escolhido tutor do jovem Pedro II.
+
+Projetos para a sociedade
+Em 1823, apresentou à Assembleia Constituinte uma representação sobre a escravidão. O texto propunha extinguir o tráfico atlântico e promover a emancipação gradual das pessoas escravizadas; era um projeto debatido no contexto político da época, não uma lei aprovada. Bonifácio também redigiu apontamentos sobre a política imperial para os povos indígenas. Esses documentos mostram propostas de reforma e de construção do Estado, cujos objetivos, limites e linguagem precisam ser examinados nos próprios textos.`
+  },
+  {
+    "id": "andre-reboucas",
+    "period": "segundo-reinado",
+    "title": "André Rebouças: engenharia, abolicionismo e terra",
+    "date": "1838–1898 | atuação no Brasil: 1857–1889",
+    "deck": "Engenheiro e professor, atuou em obras públicas e articulou a abolição a propostas de acesso à terra.",
+    "refs": [
+      "imp_andre_reboucas",
+      "imp_andre_reboucas_fundaj",
+      "imp_reboucas_abolicionismo_imediato",
+      "imp_manifesto_abolicionista"
+    ],
+    "text": `Engenharia e obras públicas
+André Pinto Rebouças formou-se engenheiro pela Escola Militar e trabalhou em obras de portos, docas, ferrovias e abastecimento de água. Dirigiu projetos ligados às Docas da Alfândega do Rio de Janeiro e à Companhia Docas Pedro II, além de lecionar na Escola Politécnica. Sua trajetória conecta formação técnica, empresas privadas e obras contratadas ou apoiadas pelo Estado imperial.
+
+Campanha abolicionista
+Na década de 1880, Rebouças participou de associações antiescravistas e colaborou com Joaquim Nabuco, José do Patrocínio e outros militantes. Em 1883, aparece entre os autores do manifesto da Confederação Abolicionista. No mesmo ano, publicou a brochura Abolição Immediata e sem Indemnisação, na qual defendeu que a libertação não fosse acompanhada por pagamento aos antigos proprietários. A mobilização envolvia imprensa, reuniões públicas, sociedades emancipadoras, ações judiciais e a resistência das próprias pessoas escravizadas; não se restringia a uma liderança ou instituição.
+
+Emancipação e acesso à terra
+Rebouças defendia que a liberdade jurídica fosse acompanhada por reformas que ampliassem o acesso à terra e as condições para o trabalho autônomo. Chamava seu projeto de “democracia rural”. A proposta ajuda a distinguir a abolição legal de 1888 das medidas sociais e econômicas que permaneceram em disputa e não foram implantadas como política nacional naquele momento.
+
+Ruptura de 1889
+Monarquista, Rebouças deixou o Brasil após a proclamação da República e acompanhou a família imperial no exílio. Seus diários e papéis registram a passagem da atuação em obras públicas e na campanha abolicionista para a reflexão sobre o novo regime.`
+  },
+  {
+    "id": "machado-de-assis",
+    "period": "segundo-reinado",
+    "title": "Machado de Assis: literatura, imprensa e serviço público",
+    "date": "1839–1908 | carreira iniciada no Império",
+    "deck": "Escritor, jornalista e funcionário público, retratou instituições e relações sociais em uma obra que atravessou a mudança de regime.",
+    "refs": [
+      "imp_machado_abl",
+      "imp_machado_bndigital",
+      "imp_machado_acervo_digital"
+    ],
+    "text": `Uma carreira construída na Corte
+Joaquim Maria Machado de Assis nasceu no Rio de Janeiro, filho de um pintor e dourador e de uma açoriana. Teve acesso irregular à escola e começou a publicar ainda jovem. Trabalhou como tipógrafo, colaborou com jornais e revistas e, em 1873, foi nomeado primeiro oficial da Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas. A carreira no serviço público se desenvolveu junto com a produção literária e a participação na imprensa da Corte.
+
+Obras e observação social
+Machado escreveu poesia, teatro, contos, romances e crônicas. Memórias Póstumas de Brás Cubas saiu em livro em 1881; seus textos exploram, entre outros assuntos, as convenções da elite, a busca por prestígio, o dinheiro e as relações de poder. A ficção oferece uma leitura literária de seu tempo, mas não substitui documentos administrativos ou estatísticas sobre a sociedade imperial.
+
+Uma trajetória que atravessou regimes
+Sua produção começou no Império e continuou durante a República. Em 1897, Machado participou da fundação da Academia Brasileira de Letras e foi eleito seu primeiro presidente. A fotografia indicada neste dossiê é de 1890, já no período republicano; serve como retrato do escritor, enquanto o texto situa sua carreira no contexto mais amplo do século XIX.`
+  },
+  {
+    "id": "duque-de-caxias",
+    "period": "segundo-reinado",
+    "title": "Duque de Caxias: comando militar e política imperial",
+    "date": "1803–1880",
+    "deck": "Luís Alves de Lima e Silva comandou campanhas internas e externas e ocupou cargos centrais no governo do Império.",
+    "refs": [
+      "imp_caxias_arquivo_nacional",
+      "imp_caxias_bndigital",
+      "imp_farroupilha"
+    ],
+    "text": `Campanhas internas
+Luís Alves de Lima e Silva participou de ações militares desde as guerras da Independência. Durante as Regências, comandou forças imperiais na Balaiada, no Maranhão. Na década seguinte, liderou a campanha que encerrou a Farroupilha no Rio Grande do Sul, combinando operações militares e negociação política. A palavra “pacificação”, usada em registros e homenagens oficiais, descreve o restabelecimento da autoridade imperial; não elimina o exame das batalhas, da repressão e das consequências para as populações das províncias.
+
+Governo e Guerra do Paraguai
+Caxias foi senador, ministro da Guerra e presidente do Conselho de Ministros. Em 1866, assumiu o comando das forças brasileiras na Guerra da Tríplice Aliança. As tropas sob sua liderança ocuparam Assunção em janeiro de 1869; ele deixou o comando naquele ano por problemas de saúde, antes do fim do conflito em 1870.
+
+Memória e avaliação
+O título de duque foi concedido em reconhecimento aos serviços militares, e, em 1962, o governo republicano o declarou patrono do Exército. Essa memória institucional é parte da história de sua reputação. A atuação de Caxias também pode ser estudada por correspondências, ordens e relatórios militares, distinguindo vitórias de campo, acordos políticos e custos humanos das campanhas.`
+  },
+  {
+    "id": "luiz-gama",
+    "period": "segundo-reinado",
+    "title": "Luiz Gama: imprensa, tribunais e emancipação",
+    "date": "1830–1882",
+    "deck": "Poeta, jornalista e rábula, mobilizou leis e tribunais para contestar a escravização ilegal.",
+    "refs": [
+      "imp_luiz_gama_apesp",
+      "imp_luiz_gama_palmares"
+    ],
+    "text": `Liberdade e formação
+Luiz Gonzaga Pinto da Gama nasceu livre em Salvador, em 1830, mas foi vendido ilegalmente pelo pai e passou anos privado da liberdade. Já adulto, demonstrou que havia nascido livre e recuperou sua liberdade. Em São Paulo, trabalhou na Secretaria de Polícia, estudou por conta própria e acompanhou aulas na Faculdade de Direito, sem concluir um curso jurídico.
+
+Atuação nos tribunais
+Como rábula, atuou em processos de liberdade e usou dispositivos legais para contestar a escravização de pessoas que, pela lei, deveriam ser livres. A prática jurídica de Gama articulava conhecimento das normas, investigação de documentos e ação nos tribunais. O acervo do Arquivo Público do Estado de São Paulo reúne registros de sua atuação e textos publicados na imprensa.
+
+Jornalismo e abolicionismo
+Gama foi poeta e jornalista, publicou Primeiras Trovas Burlescas de Getulino e colaborou com periódicos, entre eles O Diabo Coxo. Sua escrita satírica e sua atuação pública fazem parte da história da imprensa negra e do abolicionismo. Morreu em 1882, antes da Lei Áurea; sua trajetória evidencia uma frente jurídica e intelectual da luta pela liberdade, ao lado de ações coletivas e de iniciativas das próprias pessoas escravizadas.`
+  },
+  {
+    "id": "maria-firmina-dos-reis",
+    "period": "segundo-reinado",
+    "title": "Maria Firmina dos Reis: educação e literatura",
+    "date": "1859–1888 | obras e atuação pública",
+    "deck": "Professora e escritora maranhense, publicou ficção, poesia e textos ligados à discussão da escravidão.",
+    "refs": [
+      "imp_maria_firmina_secult",
+      "imp_ursula_ufsc"
+    ],
+    "text": `Professora e autora
+Maria Firmina dos Reis atuou como professora pública no Maranhão e colaborou com periódicos. Em 1859, publicou Úrsula sob o pseudônimo “Uma Maranhense”, pela Tipografia do Progresso, em São Luís. A edição documenta a produção literária fora da Corte e a presença de mulheres na vida intelectual do século XIX.
+
+Literatura e escravidão
+Em Úrsula, personagens negros têm voz e memória próprias, e a narrativa apresenta a escravidão como experiência de violência e perda. Em 1887, Firmina publicou o conto A Escrava, também dedicado ao tema. A leitura de suas obras permite estudar escolhas literárias e críticas da autora sem tomar a ficção como transcrição literal de acontecimentos específicos.
+
+Circulação e memória
+Sua produção inclui ainda Gupeva e Cantos à Beira-Mar. A obra recebeu novas edições e estudos no século XX. A imagem deste dossiê mostra a capa da edição de Úrsula de 1859, não um retrato da escritora.`
+  },
+  {
+    "id": "joaquim-nabuco",
+    "period": "segundo-reinado",
+    "title": "Joaquim Nabuco: Parlamento e campanha abolicionista",
+    "date": "1849–1910 | campanha parlamentar: anos 1880",
+    "deck": "Deputado, escritor e diplomata, atuou no Parlamento e na imprensa pela abolição da escravidão.",
+    "refs": [
+      "imp_joaquim_nabuco_abl",
+      "imp_nabuco_o_abolicionismo",
+      "imp_nabuco_funag"
+    ],
+    "text": `Formação e entrada na política
+Joaquim Aurélio Barreto Nabuco de Araújo nasceu no Recife, formou-se em Direito e iniciou carreira diplomática antes de ser eleito deputado geral por Pernambuco. Filho do senador Nabuco de Araújo, vinha de uma família com posição na política imperial. Sua trajetória combinou recursos sociais de uma elite letrada com uma campanha pública contra a escravidão.
+
+Atuação abolicionista
+Na década de 1880, Nabuco articulou discursos parlamentares, associações, imprensa e contatos internacionais. Publicou O Abolicionismo em Londres, em 1883, e, ao retornar ao Brasil, retomou a atividade parlamentar e a campanha em Pernambuco. O livro é uma fonte primária para conhecer seus argumentos e seu projeto; a ação abolicionista mais ampla também envolveu jornalistas, advogados, associações, mobilizações populares e a resistência das pessoas escravizadas.
+
+Monarquia e República
+Nabuco manteve convicções monarquistas após a proclamação da República e se afastou temporariamente da política. Mais tarde, escreveu Um Estadista do Império, sobre a trajetória política de seu pai, e exerceu funções diplomáticas na República. Sua biografia mostra que o abolicionismo reunia pessoas de orientações políticas diferentes e não se confunde com uma única forma de governo.`
+  },
+  {
+    "id": "jose-do-patrocinio",
+    "period": "segundo-reinado",
+    "title": "José do Patrocínio: imprensa e mobilização abolicionista",
+    "date": "1853–1905 | campanha abolicionista: 1877–1888",
+    "deck": "Jornalista, orador e escritor, fez da imprensa e das associações espaços centrais da campanha pela abolição.",
+    "refs": [
+      "imp_patrocinio_bndigital",
+      "imp_patrocinio_abl",
+      "imp_manifesto_abolicionista"
+    ],
+    "text": `Jornalismo e campanha pública
+José Carlos do Patrocínio iniciou sua colaboração jornalística na década de 1870 e passou a escrever para a Gazeta de Notícias em 1877. Em 1881, tornou-se proprietário da Gazeta da Tarde; em 1887, fundou o jornal Cidade do Rio. Seus artigos, conferências e discursos deram visibilidade à campanha abolicionista na Corte e ajudaram a mobilizar leitores e associações.
+
+Confederação Abolicionista
+Em 1883, Patrocínio participou da articulação da Confederação Abolicionista do Rio de Janeiro e redigiu, com André Rebouças e outros signatários, seu manifesto. A associação buscava reunir clubes abolicionistas e coordenar iniciativas públicas. Os jornais da época registram reuniões, conferências e atos, mas também expressam a posição de seus autores e devem ser confrontados com outros documentos.
+
+Um movimento plural
+Patrocínio foi uma das lideranças mais conhecidas do abolicionismo urbano, junto a trajetórias distintas como a ação judicial de Luiz Gama, a campanha parlamentar de Nabuco e a engenharia e as propostas sociais de Rebouças. A emancipação resultou de disputas legais e políticas, organização pública e ações de pessoas escravizadas e livres, não de uma única liderança.`
+  },
 ];

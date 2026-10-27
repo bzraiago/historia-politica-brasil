@@ -3,6 +3,7 @@
 const dossierThemes = {
   "primeiro-reinado": [
     { id: "formacao-do-estado", title: "Independência e formação do Estado", dossierIds: ["independencias", "constituicao1824"] },
+    { id: "personalidades-e-projetos", title: "Personalidades e projetos de Estado", dossierIds: ["jose-bonifacio"] },
     { id: "guerras-e-crise", title: "Guerra, fronteiras e crise sucessória", dossierIds: ["cisplatina-abdicacao"] }
   ],
   "regencias": [
@@ -11,10 +12,11 @@ const dossierThemes = {
   ],
   "segundo-reinado": [
     { id: "politica-e-crise", title: "Instituições, política e crise da monarquia", dossierIds: ["politica-imperial", "fim-imperio"] },
+    { id: "personalidades-e-trajetorias", title: "Personalidades e trajetórias", dossierIds: ["andre-reboucas", "machado-de-assis", "luiz-gama", "maria-firmina-dos-reis", "joaquim-nabuco", "jose-do-patrocinio"] },
     { id: "escravidao-e-emancipacao", title: "Escravidão, emancipação e pós-abolição", dossierIds: ["trafico-cafe", "leis-emancipacao", "abolicao-imperio", "casa-imperial-escravidao", "isabel-camelias", "pos-abolicao-projetos"] },
     { id: "sociedade-e-territorio", title: "Sociedade, território e vida cotidiana", dossierIds: ["terra-indigenas", "cotidiano-populacao", "protestos-modernizacao", "popularidade-monarquia"] },
     { id: "economia-e-modernizacao", title: "Economia, educação e modernização", dossierIds: ["economia-financas-imperio", "custos-casa-imperial", "educacao-imperial", "ciencia-imperial", "tecnologia-infraestrutura"] },
-    { id: "guerras-e-diplomacia", title: "Guerras, fronteiras e diplomacia", dossierIds: ["guerra-paraguai", "diplomacia-prata"] },
+    { id: "guerras-e-diplomacia", title: "Guerras, fronteiras e diplomacia", dossierIds: ["guerra-paraguai", "diplomacia-prata", "duque-de-caxias"] },
     { id: "casa-imperial-e-religiao", title: "Casa Imperial, religião e viagens", dossierIds: ["igreja-religiao-imperio", "viagens-bell-telefone", "viagens-europa-oriente", "pedro-japao", "viagens-paisana-financiamento"] },
     { id: "comparacoes-e-cenarios", title: "Comparações históricas e cenários", dossierIds: ["comparar-imperio-republica", "alternativas-historicas"] }
   ],
