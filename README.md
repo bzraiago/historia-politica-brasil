@@ -16,12 +16,15 @@ scripts/
     periods.js             Etapas republicanas e lista conjunta de períodos
     imperial-dossiers.js   Dossiês sobre o Império
     dossiers.js            Dossiês republicanos e lista conjunta
+    imperial-images.js     Imagens, legendas e licenças do Império
     comparisons.js         Quadro de comparação dos modelos políticos
   render.js                Funções que transformam os dados em HTML
   app.js                   Navegação entre Império e República, pesquisa, diálogo e impressão
 ```
 
 Os arquivos JavaScript são carregados na ordem acima, pois compartilham as constantes globais do projeto. Ao acrescentar conteúdo, edite os arquivos em `scripts/data/`. Ajustes visuais ficam em `styles/main.css`; mudanças no comportamento da página ficam em `scripts/app.js`. Preserve a ordem dos elementos `<script>` em `index.html`.
+
+Os três panoramas e os 32 dossiês imperiais incluem imagens do Wikimedia Commons. Cada dossiê mostra uma miniatura no cartão e, ao abrir, uma legenda com autoria, data, contexto e link para o arquivo e sua licença quando aplicável. Imagens de contexto e representações posteriores são identificadas como tais.
 
 ## Método editorial
 

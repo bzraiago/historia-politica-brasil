@@ -23,6 +23,11 @@ function figure(data) {
   return `<figure><img src="${data[0]}" alt="${escapeHTML(data[1])}" loading="lazy" decoding="async" referrerpolicy="no-referrer"><figcaption>${escapeHTML(data[2])}<br><a href="${data[3]}" target="_blank" rel="noopener noreferrer">Arquivo e metadados no Wikimedia Commons ↗</a>${data[4] ? ` · <a href="${data[4]}" target="_blank" rel="noopener noreferrer">Licença</a>` : ''}</figcaption></figure>`;
 }
 
+function cardImage(dossier) {
+  if (!dossier.image) return '';
+  return `<span class="card-media"><img src="${dossier.image[0]}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"></span>`;
+}
+
 function society(period) {
   return `<div class="social">${period.social.map(row => `<div><h4>${escapeHTML(row[0])}</h4><p>${escapeHTML(row[1])}</p></div>`).join('')}</div>`;
 }
@@ -55,7 +60,7 @@ function periodDetails(period) {
 }
 
 function render() {
-  $('#panels').innerHTML = periods.map((period, index) => `<section id="panel-${period.id}" class="period" role="tabpanel" aria-labelledby="tab-${period.id}" tabindex="0" ${period.id !== active ? 'hidden' : ''}><div class="period-heading"><div><div class="eyebrow">${escapeHTML(period.kicker)}</div><h2>${escapeHTML(period.title)}</h2><span class="status">${escapeHTML(period.years)}</span></div><div class="period-number" aria-hidden="true">${String(index + 1).padStart(2, '0')}</div></div><div class="${period.image ? 'lead-grid' : ''}"><div class="prose">${prose(period.overview)}</div>${figure(period.image)}</div><div class="note">${escapeHTML(period.note)}</div><div class="section-title"><h3>Dossiês de aprofundamento</h3><span>Clique para abrir • Esc para fechar</span></div><div class="cards">${dossiers.filter(dossier => dossier.period === period.id).map(dossier => `<button class="card" data-dossier="${dossier.id}" aria-haspopup="dialog"><span class="tag">${escapeHTML(dossier.date)}</span><h4>${escapeHTML(dossier.title)}</h4><p>${escapeHTML(dossier.deck)}</p><span class="action">Aprofundar leitura ↗</span></button>`).join('')}</div>${periodDetails(period)}${refs(period.refs)}<div class="reading-actions">${index > 0 ? `<button data-tab="${periods[index - 1].id}">← ${escapeHTML(periods[index - 1].tab)}</button>` : ''}${index < periods.length - 1 ? `<button data-tab="${periods[index + 1].id}">Próxima leitura →</button>` : ''}</div></section>`).join('');
+  $('#panels').innerHTML = periods.map((period, index) => `<section id="panel-${period.id}" class="period" role="tabpanel" aria-labelledby="tab-${period.id}" tabindex="0" ${period.id !== active ? 'hidden' : ''}><div class="period-heading"><div><div class="eyebrow">${escapeHTML(period.kicker)}</div><h2>${escapeHTML(period.title)}</h2><span class="status">${escapeHTML(period.years)}</span></div><div class="period-number" aria-hidden="true">${String(index + 1).padStart(2, '0')}</div></div><div class="${period.image ? 'lead-grid' : ''}"><div class="prose">${prose(period.overview)}</div>${figure(period.image)}</div><div class="note">${escapeHTML(period.note)}</div><div class="section-title"><h3>Dossiês de aprofundamento</h3><span>Clique para abrir • Esc para fechar</span></div><div class="cards">${dossiers.filter(dossier => dossier.period === period.id).map(dossier => `<button class="card" data-dossier="${dossier.id}" aria-haspopup="dialog">${cardImage(dossier)}<span class="tag">${escapeHTML(dossier.date)}</span><h4>${escapeHTML(dossier.title)}</h4><p>${escapeHTML(dossier.deck)}</p><span class="action">Aprofundar leitura ↗</span></button>`).join('')}</div>${periodDetails(period)}${refs(period.refs)}<div class="reading-actions">${index > 0 ? `<button data-tab="${periods[index - 1].id}">← ${escapeHTML(periods[index - 1].tab)}</button>` : ''}${index < periods.length - 1 ? `<button data-tab="${periods[index + 1].id}">Próxima leitura →</button>` : ''}</div></section>`).join('');
   $('#dossier-count').textContent = dossiers.length;
   $('#period-count').textContent = periods.length;
   renderTabs(currentEra);

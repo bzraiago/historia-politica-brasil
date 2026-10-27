@@ -10,6 +10,9 @@ dialog{border:1px solid var(--line);border-radius:12px;background:var(--bg);colo
 @media print{body{background:white;color:black;font-size:11pt}.masthead,.hero,.navigation,main,footer,dialog,.progress{display:none!important}.print-area{display:block}.print-area h1,.print-area h2,.print-area h3{color:black}.print-area h2{break-before:page}.print-area a{color:black}.print-area p{orphans:3;widows:3}.print-area table{min-width:0;font-size:9pt}.print-area th,.print-area td{color:black;border:1px solid #aaa;background:white;white-space:normal}.print-area figure{display:none}.print-area .social{display:block}.print-area .social p,.print-area .social h4,.print-area .note,.print-area .sources{color:black;background:white}.print-area .prose{font-size:11pt;line-height:1.5}.print-area .card,.print-area button{display:none}}
 
 .era-switch{display:flex;gap:10px;padding:14px 0 4px;border-bottom:1px solid var(--line)}
+.card-media{display:block;width:calc(100% + 48px);height:160px;margin:-24px -24px 20px;overflow:hidden;border-radius:8px 8px 0 0;background:#0c1214}
+.card-media img{display:block;width:100%;height:100%;object-fit:cover;filter:sepia(.16);transition:transform .25s}
+.card:hover .card-media img{transform:scale(1.035)}
 .era-switch button{flex:1;text-align:left;border-color:var(--line);background:var(--panel);font-weight:700;letter-spacing:.04em}
 .era-switch button small{display:block;font-weight:400;letter-spacing:0;color:var(--muted)}
 .era-switch button[aria-pressed=true]{border-color:var(--gold);background:var(--paper);color:var(--gold);box-shadow:inset 0 -3px var(--gold)}

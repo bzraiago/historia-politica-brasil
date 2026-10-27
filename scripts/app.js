@@ -130,6 +130,10 @@ modal.addEventListener('click', event => {
 });
 document.addEventListener('error', event => {
   if (event.target.tagName === 'IMG') {
+    if (event.target.closest('.card-media')) {
+      event.target.closest('.card-media').hidden = true;
+      return;
+    }
     event.target.hidden = true;
     const note = document.createElement('p');
     note.className = 'image-error';

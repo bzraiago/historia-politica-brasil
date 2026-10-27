@@ -52,8 +52,19 @@ for (const item of [...model.periods, ...model.dossiers]) {
 }
 for (const dossier of model.dossiers) assert.ok(model.periods.some(period => period.id === dossier.period), `Período ausente: ${dossier.id}`);
 
+const imperialPeriods = model.periods.filter(period => period.era === 'imperio');
+const imperialDossiers = model.dossiers.filter(dossier => imperialPeriods.some(period => period.id === dossier.period));
+assert.equal(imperialDossiers.length, 32);
+for (const item of [...imperialPeriods, ...imperialDossiers]) {
+  assert.equal(item.image?.length >= 4, true, `Imagem ausente: ${item.id}`);
+  assert.match(item.image[0], /^https:\/\/(?:thumb|upload)\.wikimedia\.org\//);
+  assert.match(item.image[3], /^https:\/\/commons\.wikimedia\.org\/wiki\/File:/);
+  assert.ok(item.image[1] && item.image[2], `Legenda ausente: ${item.id}`);
+}
+
 for (const period of model.periods) panels.set(`panel-${period.id}`, {id:`panel-${period.id}`, hidden:period.id !== 'primeiro-reinado'});
 assert.match(getElement('#panels').innerHTML, /id="panel-primeiro-reinado"/);
+assert.match(getElement('#panels').innerHTML, /class="card-media"/);
 assert.match(getElement('#panels').innerHTML, /id="panel-velha"/);
 assert.match(getElement('#tabs').innerHTML, /Primeiro Reinado/);
 assert.doesNotMatch(getElement('#tabs').innerHTML, /República Velha/);
