@@ -540,11 +540,14 @@ Ferrovias e empresas são evidências de transformação; não autorizam afirmar
       "imp_dotacao",
       "imp_constituicao"
     ],
-    "text": `Uma fonte e um ano definidos
-A Lei 3.349, de 20 de outubro de 1887, fixou a despesa geral do Império para 1888 em 141.230:104$834 réis. Um conto de réis correspondia a 1:000$000. O artigo 2º discriminava dotações familiares e outras despesas do Ministério do Império. São valores orçados, não uma prestação de contas da execução.
+    "text": `A lei e a notação monetária
+A Lei 3.349, de 20 de outubro de 1887, fixou a despesa geral do Império para o exercício de 1888 em 141.230:104$834 réis. A unidade monetária era o real (no plural, réis). Na notação da época, 1:000$000 correspondia a um conto de réis, isto é, 1.000.000 de réis. O ponto agrupava milhares de contos; os dois-pontos separavam os contos das quantias menores; e o cifrão separava mil-réis de réis. Assim, 141.230:104$834 significa 141.230 contos, 104 mil-réis e 834 réis — ou 141.230.104.834 réis. O artigo 2º discriminava essas dotações e outras despesas autorizadas para o Ministério do Império. A lei fixava a despesa prevista para o ano; esse total não é, por si só, uma prestação de contas do que foi efetivamente pago.
 
-As rubricas familiares
-O imperador tinha dotação de 800 contos; a imperatriz, 96; Isabel, 150. Os alimentos dos príncipes nas rubricas 4 a 8 somavam 44 contos: 8, 6, 6, 12 e 12. A soma das oito rubricas é 1.090 contos. Dividida pela despesa geral de aproximadamente 141.230,105 contos e multiplicada por 100, representa cerca de 0,77%. A dotação isolada do imperador representa aproximadamente 0,57%. O Gabinete Imperial aparece separadamente, com 1,9 conto.
+Como ler as dotações
+A própria lei registra a dotação do imperador como 800:000$000, equivalente a 800 contos ou 800 milhões de réis. A da imperatriz aparece como 96:000$000 (96 contos; 96 milhões de réis), e a da princesa Isabel como 150:000$000 (150 contos; 150 milhões de réis). As cinco rubricas de alimentos dos príncipes são 8:000$000, 6:000$000, 6:000$000, 12:000$000 e 12:000$000; somadas, dão 44:000$000, ou 44 contos. As oito rubricas familiares totalizam 1.090:000$000 (1.090 contos; 1 bilhão e 90 milhões de réis). O Gabinete Imperial consta à parte, com 1:900$000: um conto e 900 mil-réis, ou 1,9 conto.
+
+O que a proporção mostra
+As oito rubricas familiares somadas correspondem a cerca de 0,77% da despesa geral prevista para 1888: 1.090 contos ÷ 141.230,105 contos × 100. O denominador é o total da lei, expresso em contos e arredondado a três casas decimais. A dotação do imperador, considerada isoladamente, equivale a aproximadamente 0,57%. Os valores são apresentados na moeda e na escala da lei, sem conversão para preços atuais.
 
 O que o número não mede
 Esses 0,77% são a participação das dotações e alimentos especificados, não o custo integral da monarquia. Para chegar a este seria necessário definir o tratamento de palácios, obras, pessoal, transportes, segurança, patrimônio e despesas distribuídas em outras rubricas. Também não se deve somar toda a administração do Estado como se fosse consumo privado da família. A base é a despesa geral central, não todos os orçamentos provinciais e municipais.
