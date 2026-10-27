@@ -156,25 +156,37 @@ const imperialSources = {
     "Santa Sé — Leão XIII, encíclica In Plurimis aos bispos do Brasil (5 de maio de 1888)",
     "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_05051888_in_plurimis.html"
   ],
-  "imp_religiao_afonso": [
-    "Santa Sé — Santo Afonso Maria de Ligório: canonização e reconhecimento como Doutor da Igreja",
-    "https://www.causesanti.va/it/santi-e-beati/alfonso-maria-de-liguori.html"
-  ],
-  "imp_religiao_claver": [
-    "Santa Sé — São Pedro Claver, canonizado em 1888",
-    "https://www.causesanti.va/it/santi-e-beati/pietro-claver.html"
-  ],
   "imp_religiao_victor": [
-    "Santa Sé — Padre Francisco de Paula Victor, sacerdote brasileiro do século XIX",
-    "https://www.causesanti.va/it/santi-e-beati/francisco-de-paula-victor.html"
+    "Diocese da Campanha — Biografia de Francisco de Paula Victor e beatificação",
+    "https://diocesedacampanha.org.br/beato-padre-victor/"
   ],
   "imp_religiao_victor_acta": [
     "Santa Sé — Acta Apostolicae Sedis: processo de beatificação e vida de Francisco de Paula Victor",
     "https://press.vatican.va/archive/aas/documents/2019/acta-agosto2019.pdf"
   ],
   "imp_religiao_nhachica": [
-    "Santa Sé — Nhá Chica, leiga brasileira cuja vida atravessou o Império",
-    "https://www.causesanti.va/it/santi-e-beati/francisca-de-paula-de-jesus-nha-chica.html"
+    "Santa Sé — Carta apostólica de beatificação de Nhá Chica (2013)",
+    "https://press.vatican.va/roman_curia/secretariat_state/parolin/2013/documents/rc_seg-st_20130504_beata-nha-chica_lt.html"
+  ],
+  "imp_religiao_galvao": [
+    "Santa Sé — Biografia oficial de Frei Antônio de Sant’Anna Galvão (1739–1822)",
+    "https://www.vatican.va/news_services/liturgy/saints/ns_lit_doc_20070511_frei-galvao_po.html"
+  ],
+  "imp_religiao_galvao_canonizacao": [
+    "Santa Sé — Homilia da canonização de Frei Galvão, São Paulo, 11 de maio de 2007",
+    "https://www.vatican.va/content/benedict-xvi/pt/homilies/2007/documents/hf_ben-xvi_hom_20070511_canonization-brazil.html"
+  ],
+  "imp_religiao_paulina": [
+    "Santa Sé — Biografia oficial de Amábile Lúcia Visintainer, Santa Paulina",
+    "https://press.vatican.va/news_services/liturgy/2002/documents/ns_lit_doc_20020519_paulina_po.html"
+  ],
+  "imp_religiao_paulina_canonizacao": [
+    "Santa Sé — Homilia da canonização de Santa Paulina, 19 de maio de 2002",
+    "https://www.vatican.va/content/john-paul-ii/pt/homilies/2002/documents/hf_jp-ii_hom_20020519_canonization.html"
+  ],
+  "imp_religiao_nhachica_diocese": [
+    "Diocese da Campanha — Vida de Nhá Chica e devoção em Baependi",
+    "https://diocesedacampanha.org.br/beata-nha-chica-intercedei-por-nos/"
   ],
   "imp_religiao_republica": [
     "Presidência da República — Decreto nº 119-A, de 7 de janeiro de 1890: liberdade de cultos e extinção do padroado",
@@ -385,8 +397,80 @@ const imperialSources = {
     "https://funag.gov.br/loja/download/3-Relacoes_entre_o_Brasil_e_o_mundo_arabe.pdf"
   ],
   "imp_diarios": [
-    "Pesquisa Fapesp — Diários de viagem preservados pelo Museu Imperial (2025)",
+    "Museu Imperial — Transcrições dos diários de D. Pedro II (1840–1891)",
+    "https://museuimperial.museus.gov.br/diarios/"
+  ],
+  "imp_viagem_fapesp": [
+    "Pesquisa FAPESP — Diários de viagem e registros de D. Pedro II (2025)",
     "https://revistapesquisa.fapesp.br/museu-imperial-expoe-diarios-de-viagem-de-dom-pedro-ii/"
+  ],
+  "imp_viagem1_diario1": [
+    "Museu Imperial — Diário, primeira viagem ao exterior, volume 11 (1871)",
+    "https://museuimperial.museus.gov.br/wp-content/uploads/2020/09/VOL11.pdf"
+  ],
+  "imp_viagem1_diario2": [
+    "Museu Imperial — Diário, primeira viagem ao exterior, volume 12 (1871)",
+    "https://museuimperial.museus.gov.br/wp-content/uploads/2020/09/VOL12.pdf"
+  ],
+  "imp_viagem1_diario3": [
+    "Museu Imperial — Diário, Egito e Europa, volume 13 (1871)",
+    "https://museuimperial.museus.gov.br/wp-content/uploads/2020/09/VOL13.pdf"
+  ],
+  "imp_viagem1_contexto": [
+    "Via Atlântica / Universidade de São Paulo — Diário, Egito e interesses de Pedro II",
+    "https://revistas.usp.br/viaatlantica/en/article/view/198342/216038"
+  ],
+  "imp_viagem1_ciencia": [
+    "Arquivo Nacional — Escola de Minas de Ouro Preto e a iniciativa de Pedro II",
+    "https://mapa.arquivonacional.gov.br/index.php/assuntos/15-dicionario/65-dicionario-da-administracao-publica-brasileira-do-periodo-imperial/314-escola-de-minas"
+  ],
+  "imp_viagem1_escola": [
+    "Universidade Federal de Minas Gerais — Estudo sobre a Escola de Minas e o contato com Auguste Daubrée",
+    "https://repositorio.ufmg.br/server/api/core/bitstreams/b03b2fbe-dc82-4a89-9cf4-3da49c0b785c/content"
+  ],
+  "imp_viagem2_itinerario": [
+    "Museu Imperial — Itinerário aos Estados Unidos, 1876, Anuário do Museu Imperial",
+    "https://museuimperial.museus.gov.br/wp-content/uploads/2020/09/1975-Vol.36.pdf"
+  ],
+  "imp_viagem2_diario_us": [
+    "Museu Imperial — Diário, segunda viagem ao exterior, América do Norte, volume 17 (1876)",
+    "https://museuimperial.museus.gov.br/wp-content/uploads/2020/09/VOL17.pdf"
+  ],
+  "imp_viagem2_oriente": [
+    "FUNAG / Ministério das Relações Exteriores — Do Rio de Janeiro a Istambul, estudo das relações com o Império Otomano",
+    "https://funag.gov.br/biblioteca-nova/produto/1-177-do_rio_de_janeiro_a_istambul_contrastes_e_conexoes_entre_o_brasil_e_o_imperio_otomano_1850_1919_"
+  ],
+  "imp_viagem2_diario_oriente": [
+    "Museu Imperial — Diário da segunda viagem ao exterior, Oriente Médio, volume 18 (1876)",
+    "https://museuimperial.museus.gov.br/wp-content/uploads/2020/09/VOL18.pdf"
+  ],
+  "imp_viagem2_diario_jerusalem": [
+    "Museu Imperial — Diário da segunda viagem ao exterior, Oriente Médio, volume 19 (1876)",
+    "https://museuimperial.museus.gov.br/wp-content/uploads/2020/09/VOL19.pdf"
+  ],
+  "imp_viagem2_diario_egito": [
+    "Museu Imperial — Diário da segunda viagem ao exterior, Egito, volume 20 (1876)",
+    "https://museuimperial.museus.gov.br/wp-content/uploads/2020/09/VOL20.pdf"
+  ],
+  "imp_viagem2_diario_egito2": [
+    "Museu Imperial — Diário da segunda viagem ao exterior, Egito, volume 21 (1876)",
+    "https://museuimperial.museus.gov.br/wp-content/uploads/2020/09/VOL21.pdf"
+  ],
+  "imp_viagem2_tecnologia": [
+    "Biblioteca Nacional Digital — Pedro II na Exposição da Filadélfia e contato com o telefone de Bell",
+    "https://bndigital.bn.gov.br/artigos/imperio-do-brasil-d-pedro-ii-na-exposicao-do-centenario-da-independencia-dos-estados-unidos-em-1876/"
+  ],
+  "imp_viagem3_diario": [
+    "Museu Imperial — Diário da terceira viagem ao exterior, volume 27 (1887–1888)",
+    "https://museuimperial.museus.gov.br/wp-content/uploads/2020/09/VOL27.pdf"
+  ],
+  "imp_viagem3_diario2": [
+    "Museu Imperial — Diário da terceira viagem ao exterior, volume 28 (1888)",
+    "https://museuimperial.museus.gov.br/wp-content/uploads/2020/09/VOL28.pdf"
+  ],
+  "imp_viagem3_saude": [
+    "SciELO / Universidade Federal do Rio de Janeiro — A viagem de 1887–1888 e o tratamento de saúde de Pedro II",
+    "https://www.scielo.br/j/anp/a/WgRXS8LrvTVLfjZHsSvvqcC/"
   ],
   "imp_imagens_monarca": [
     "UFF — Diferentes vozes, diferentes imagens: representações e petições a Pedro II (tese)",
