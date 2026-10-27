@@ -246,7 +246,7 @@ Em São Paulo e Minas Gerais, adversários das medidas centralizadoras e da diss
       "imp_religiao_republica",
       "imp_religiao_constituicao_1891"
     ],
-    "text": "Constituição, religião oficial e padroado\nA Constituição de 1824 declarou a religião católica, apostólica, romana como religião do Império. Outros credos podiam realizar culto doméstico ou particular em casas, sem forma exterior de templo. A diferença entre liberdade de consciência e igualdade pública entre religiões era, portanto, significativa: a Igreja Católica tinha presença oficial e os demais cultos enfrentavam limites legais à sua visibilidade. Essa regra moldou cerimônias de Estado, juramentos e a posição pública da dinastia.\n\nPluralidade religiosa e limites legais\nA religião oficial coexistia com práticas e comunidades diversas. O artigo 276 do Código Criminal de 1830 previa dispersão de reuniões, demolição de sinais exteriores de templo e multa para o culto público de religião diferente da oficial. A norma evidencia a assimetria jurídica, mas não permite presumir aplicação uniforme em todas as províncias. A Revolta dos Malês, na Bahia em 1835, documenta redes de africanos muçulmanos; irmandades negras do Rosário mostram outra forma de participação religiosa e organização comunitária. Imigrantes protestantes e judeus também integraram essa sociedade, sob arranjos legais próprios e limites à manifestação pública.\n\nO padroado articulava Coroa e Igreja. A Constituição atribuía ao imperador a nomeação de bispos e a provisão de benefícios eclesiásticos; bulas e determinações pontifícias dependiam de beneplácito imperial para terem execução no país. Esse poder convivia com a jurisdição eclesiástica sobre disciplina e sacramentos. O sistema dava ao governo influência sobre a administração eclesiástica e, ao mesmo tempo, impunha à Coroa deveres ligados à religião oficial. Não eliminava a autoridade espiritual dos bispos: produzia competências sobrepostas que se tornaram fonte de conflito.\n\nParóquias, irmandades e devoção cotidiana\nA vida religiosa não se restringia à corte ou aos bispos. Paróquias, festas, procissões, romarias, ordens terceiras e irmandades leigas organizavam devoções e redes locais de solidariedade. Associações religiosas apoiavam funerais, missas por falecidos, viúvas e órfãos; em irmandades de Nossa Senhora do Rosário, africanos e negros nascidos no Brasil, livres e escravizados, construíram espaços de culto, auxílio e organização comunitária. A participação e o acesso a cargos variavam por região, condição jurídica, cor, gênero e recursos; essas redes não suprimiam hierarquias, mas também não podem ser reduzidas a instrumentos passivos do Estado ou do clero.\n\nClérigos e posições distintas\nO clero não formava um bloco político uniforme. Diogo Antônio Feijó, sacerdote e regente entre 1835 e 1837, participou das disputas sobre a construção do Estado e defendeu reformas que ampliavam a autoridade civil sobre matérias eclesiásticas. Em sentido diferente, bispos como Dom Vital Maria Gonçalves de Oliveira, de Olinda, e Dom Antônio de Macedo Costa, do Pará, defenderam maior autonomia disciplinar da Igreja diante do governo. Dom Pedro Maria de Lacerda, bispo do Rio de Janeiro, atuou no início da Questão Religiosa. Os episódios mostram divergências entre regalismo, liberalismo católico e centralização romana, sem resumir a experiência de todo o clero.\n\nUm percurso de ordenação que atravessou barreiras sociais foi o de Francisco de Paula Victor. Filho de mulher escravizada, foi ordenado sacerdote em 1851 e exerceu seu ministério em Minas Gerais. Sua trajetória, apoiada pelo bispo Dom Viçoso, documenta tanto a possibilidade de ingresso de um homem negro no sacerdócio quanto as restrições e resistências raciais que marcaram a formação eclesiástica. A Santa Sé o beatificou em 2015; a beatificação posterior não deve ser confundida com um título que tivesse durante o Império.\n\nA Questão Religiosa e os limites entre Igreja e Estado\nA crise conhecida como Questão Religiosa ou Questão dos Bispos ganhou força a partir de 1872. Depois que o padre Almeida Martins, ligado à maçonaria, participou de uma cerimônia maçônica, o bispo do Rio de Janeiro suspendeu-o. Em Pernambuco e no Pará, Dom Vital e Dom Macedo Costa determinaram que irmandades católicas afastassem membros maçons, apoiando-se em normas pontifícias. Integrantes das irmandades recorreram ao governo, que as entendia também como associações civis submetidas às leis e ao beneplácito imperial; os bispos sustentavam que a disciplina espiritual competia à autoridade eclesiástica.\n\nA disputa passou dos interditos e recursos administrativos aos tribunais. Os dois bispos foram condenados pelo Supremo Tribunal de Justiça e presos; o imperador comutou as penas e, em 1875, o governo do gabinete chefiado pelo Duque de Caxias concedeu anistia. As atas do Conselho de Estado preservam os pareceres e os argumentos do governo; devem ser confrontadas com outros registros para reconstruir a posição dos bispos. A crise agravou o afastamento entre setores católicos e a ordem imperial, mas não teve uma causa única nem encerrou, por si só, a monarquia.\n\nCatolicismo e escravidão\nA escravidão permaneceu legal durante quase todo o Império e atravessou instituições e grupos católicos; não existiu uma posição idêntica entre todos os clérigos, irmandades ou fiéis. Em 5 de maio de 1888, antes da Lei Áurea, Leão XIII dirigiu aos bispos brasileiros a encíclica In Plurimis. O documento condenou a escravidão e saudou a emancipação, atribuindo participação ao clero, a leigos e leigas, ao imperador, à princesa Isabel e aos ministérios por meio de leis graduais. Como fonte pontifícia contemporânea, registra a posição pública da Santa Sé e as iniciativas conhecidas naquele momento; não prova atuação uniforme de todos os agentes católicos nem comenta a lei de 13 de maio, ainda futura.\n\nA família imperial e a devoção mariana\nA relação da dinastia com o catolicismo aparecia em atos públicos e devoções pessoais. Segundo a história institucional do Santuário de Aparecida, Pedro I rezou diante da imagem em agosto de 1822; Pedro II e a imperatriz Teresa Cristina visitaram a capela em 1843 e 1865. Em 1868, Isabel e o Conde d’Eu participaram da festa de Nossa Senhora Aparecida. O Santuário registra que o casal buscava a graça de ter um herdeiro e que Isabel ofereceu à imagem um manto com 21 brilhantes, associados às províncias e à capital do Império.\n\nA cronologia do Santuário situa em 1884 o retorno de Isabel com o marido e os três filhos, em agradecimento pela graça recebida, e a doação de uma coroa de ouro de 24 quilates, pesando cerca de 300 gramas e cravejada de brilhantes. A Biblioteca Nacional Digital publica outra data para a segunda visita e a oferta: novembro de 1888. A Biblioteca Nacional Digital chama a oferta de cumprimento de uma promessa feita cerca de vinte anos antes; o Santuário narra o pedido de um herdeiro em 1868 e o retorno em agradecimento. Como os relatos divergem quanto ao ano da segunda visita e da coroa, a cronologia registra ambas as datas, sem tratar o ano como incontroverso. O Santuário informa que a coroa oferecida por Isabel foi usada na coroação solene da imagem em 8 de setembro de 1904, autorizada pelo papa Pio X. A tradição do voto e sua oferta pertencem à devoção mariana da princesa; a coroação ocorreu já na República.\n\nSantos, devoções e memória religiosa\nEntre os santos reconhecidos pela Igreja durante o período estão Afonso Maria de Ligório, canonizado em 1839 e declarado Doutor da Igreja em 1871, e Pedro Claver, canonizado por Leão XIII em 1888 por seu trabalho junto a africanos escravizados em Cartagena, na América espanhola. Claver não atuou no Brasil; sua canonização é um marco católico internacional, não um episódio brasileiro. No país, a devoção popular também se vinculou a figuras que viveram no século XIX, mas foram beatificadas depois: Francisco de Paula Victor, em 2015, e Francisca de Paula de Jesus, conhecida como Nhá Chica, em 2013. A distinção entre culto popular, beatificação e canonização ajuda a situar cada figura em seu tempo.\n\nA separação republicana\nEm 7 de janeiro de 1890, já no governo provisório republicano, o Decreto nº 119-A extinguiu o padroado, reconheceu liberdade de cultos e proibiu que o Estado estabelecesse uma religião. O próprio decreto ainda manteve temporariamente a sustentação de ministros católicos então em exercício e subsídios a seminários, sinal de que a separação institucional ocorreu por norma e transição administrativa, não por apagamento imediato das relações anteriores. A Constituição republicana de 1891 manteve a separação entre Estado e religião."
+    "text": "Constituição, religião oficial e padroado\nA Constituição de 1824 declarou a religião católica, apostólica, romana como religião do Império. Outros credos podiam realizar culto doméstico ou particular em casas, sem forma exterior de templo. A diferença entre liberdade de consciência e igualdade pública entre religiões era, portanto, significativa: a Igreja Católica tinha presença oficial e os demais cultos enfrentavam limites legais à sua visibilidade. Essa regra moldou cerimônias de Estado, juramentos e a posição pública da dinastia.\n\nPluralidade religiosa e limites legais\nA religião oficial coexistia com práticas e comunidades diversas. O artigo 276 do Código Criminal de 1830 previa dispersão de reuniões, demolição de sinais exteriores de templo e multa para o culto público de religião diferente da oficial. A norma evidencia a assimetria jurídica, mas não permite presumir aplicação uniforme em todas as províncias. A Revolta dos Malês, na Bahia em 1835, documenta redes de africanos muçulmanos; irmandades negras do Rosário mostram outra forma de participação religiosa e organização comunitária. Imigrantes protestantes e judeus também integraram essa sociedade, sob arranjos legais próprios e limites à manifestação pública.\n\nO padroado articulava Coroa e Igreja. A Constituição atribuía ao imperador a nomeação de bispos e a provisão de benefícios eclesiásticos; bulas e determinações pontifícias dependiam de beneplácito imperial para terem execução no país. Esse poder convivia com a jurisdição eclesiástica sobre disciplina e sacramentos. O sistema dava ao governo influência sobre a administração eclesiástica e, ao mesmo tempo, impunha à Coroa deveres ligados à religião oficial. Não eliminava a autoridade espiritual dos bispos: produzia competências sobrepostas que se tornaram fonte de conflito.\n\nParóquias, irmandades e devoção cotidiana\nA vida religiosa não se restringia à corte ou aos bispos. Paróquias, festas, procissões, romarias, ordens terceiras e irmandades leigas organizavam devoções e redes locais de solidariedade. Associações religiosas apoiavam funerais, missas por falecidos, viúvas e órfãos; em irmandades de Nossa Senhora do Rosário, africanos e negros nascidos no Brasil, livres e escravizados, construíram espaços de culto, auxílio e organização comunitária. A participação e o acesso a cargos variavam por região, condição jurídica, cor, gênero e recursos; essas redes não suprimiam hierarquias, mas também não podem ser reduzidas a instrumentos passivos do Estado ou do clero.\n\nClérigos e posições distintas\nO clero não formava um bloco político uniforme. Diogo Antônio Feijó, sacerdote e regente entre 1835 e 1837, participou das disputas sobre a construção do Estado e defendeu reformas que ampliavam a autoridade civil sobre matérias eclesiásticas. Em sentido diferente, bispos como Dom Vital Maria Gonçalves de Oliveira, de Olinda, e Dom Antônio de Macedo Costa, do Pará, defenderam maior autonomia disciplinar da Igreja diante do governo. Dom Pedro Maria de Lacerda, bispo do Rio de Janeiro, atuou no início da Questão Religiosa. Os episódios mostram divergências entre regalismo, liberalismo católico e centralização romana, sem resumir a experiência de todo o clero.\n\nUm percurso de ordenação que atravessou barreiras sociais foi o de Francisco de Paula Victor. Filho de mulher escravizada, foi ordenado sacerdote em 1851 e exerceu seu ministério em Minas Gerais. Sua trajetória, apoiada pelo bispo Dom Viçoso, documenta tanto a possibilidade de ingresso de um homem negro no sacerdócio quanto as restrições e resistências raciais que marcaram a formação eclesiástica. A Santa Sé o beatificou em 2015; a beatificação posterior não deve ser confundida com um título que tivesse durante o Império.\n\nA Questão Religiosa e os limites entre Igreja e Estado\nA crise conhecida como Questão Religiosa ou Questão dos Bispos ganhou força a partir de 1872. Depois que o padre Almeida Martins, ligado à maçonaria, participou de uma cerimônia maçônica, o bispo do Rio de Janeiro suspendeu-o. Em Pernambuco e no Pará, Dom Vital e Dom Macedo Costa determinaram que irmandades católicas afastassem membros maçons, apoiando-se em normas pontifícias. Integrantes das irmandades recorreram ao governo, que as entendia também como associações civis submetidas às leis e ao beneplácito imperial; os bispos sustentavam que a disciplina espiritual competia à autoridade eclesiástica.\n\nA disputa passou dos interditos e recursos administrativos aos tribunais. Os dois bispos foram condenados pelo Supremo Tribunal de Justiça e presos; o imperador comutou as penas e, em 1875, o governo do gabinete chefiado pelo Duque de Caxias concedeu anistia. As atas do Conselho de Estado registram os pareceres do governo. A crise ampliou os conflitos entre setores católicos e o governo imperial, que continuou até 1889.\n\nCatolicismo e escravidão\nA escravidão permaneceu legal durante quase todo o Império e atravessou instituições e grupos católicos; não existiu uma posição idêntica entre todos os clérigos, irmandades ou fiéis. Em 5 de maio de 1888, antes da Lei Áurea, Leão XIII dirigiu aos bispos brasileiros a encíclica In Plurimis. O documento condenou a escravidão, saudou as iniciativas de emancipação e citou a atuação do clero, do imperador, da princesa Isabel e dos ministérios, além das leis graduais.\n\nA família imperial e a devoção mariana\nA relação da dinastia com o catolicismo aparecia em atos públicos e devoções pessoais. Segundo a história institucional do Santuário de Aparecida, Pedro I rezou diante da imagem em agosto de 1822; Pedro II e a imperatriz Teresa Cristina visitaram a capela em 1843 e 1865. Em 1868, Isabel e o Conde d’Eu participaram da festa de Nossa Senhora Aparecida. O Santuário registra que o casal buscava a graça de ter um herdeiro e que Isabel ofereceu à imagem um manto com 21 brilhantes, associados às províncias e à capital do Império.\n\nA cronologia do Santuário situa em 1884 o retorno de Isabel com o marido e os três filhos, em agradecimento pela graça recebida, e a doação de uma coroa de ouro de 24 quilates, pesando cerca de 300 gramas e cravejada de brilhantes. A Biblioteca Nacional Digital publica outra data para a segunda visita e a oferta: novembro de 1888. A Biblioteca Nacional Digital chama a oferta de cumprimento de uma promessa feita cerca de vinte anos antes; o Santuário narra o pedido de um herdeiro em 1868 e o retorno em agradecimento. Como os relatos divergem quanto ao ano da segunda visita e da coroa, a cronologia registra ambas as datas, sem tratar o ano como incontroverso. O Santuário informa que a coroa oferecida por Isabel foi usada na coroação solene da imagem em 8 de setembro de 1904, autorizada pelo papa Pio X. A tradição do voto e sua oferta pertencem à devoção mariana da princesa; a coroação ocorreu já na República.\n\nSantos, devoções e memória religiosa\nEntre os santos reconhecidos pela Igreja durante o período estão Afonso Maria de Ligório, canonizado em 1839 e declarado Doutor da Igreja em 1871, e Pedro Claver, canonizado por Leão XIII em 1888 por seu trabalho junto a africanos escravizados em Cartagena, na América espanhola. No país, a devoção popular também se vinculou a figuras que viveram no século XIX, mas foram beatificadas depois: Francisco de Paula Victor, em 2015, e Francisca de Paula de Jesus, conhecida como Nhá Chica, em 2013. \n\nA separação republicana\nEm 7 de janeiro de 1890, já no governo provisório republicano, o Decreto nº 119-A extinguiu o padroado, reconheceu liberdade de cultos e proibiu que o Estado estabelecesse uma religião. O próprio decreto ainda manteve temporariamente a sustentação de ministros católicos então em exercício e subsídios a seminários, sinal de que a separação institucional ocorreu por norma e transição administrativa, não por apagamento imediato das relações anteriores. A Constituição republicana de 1891 manteve a separação entre Estado e religião."
   },
   {
     "id": "terra-indigenas",
@@ -375,8 +375,8 @@ Para um proprietário, gradualismo podia significar preservar patrimônio e trab
       "imp_trafico",
       "imp_publica_pesquisa"
     ],
-    "text": `1831 e 1850: o tráfico nos portos
-A lei de 7 de novembro de 1831, durante as Regências, declarou livres os africanos desembarcados ilegalmente, mas foi amplamente desrespeitada. A Lei Eusébio de Queirós, sancionada no reinado de Pedro II em 4 de setembro de 1850, determinou apreensão de navios brasileiros e estrangeiros envolvidos no tráfico em portos e águas do Brasil. A abertura dos portos de 1808 é uma medida comercial diferente e não deve ser confundida com essa lei de repressão ao tráfico. Pressão britânica, conflitos diplomáticos, decisões do governo e resistência interna integraram sua aprovação e aplicação. Ela combateu o tráfico atlântico; não libertou automaticamente quem já era escravizado.
+    "text": `1831 e 1850: repressão ao tráfico atlântico
+A lei de 7 de novembro de 1831, durante as Regências, declarou livres os africanos desembarcados ilegalmente, mas foi amplamente desrespeitada. A Lei Eusébio de Queirós, sancionada no reinado de Pedro II em 4 de setembro de 1850, determinou apreensão de navios brasileiros e estrangeiros envolvidos no tráfico em portos e águas do Brasil. Pressão britânica, conflitos diplomáticos, decisões do governo e resistência interna integraram sua aprovação e aplicação. Ela combateu o tráfico atlântico; não libertou automaticamente quem já era escravizado.
 
 1865–1871: iniciativas da Coroa e do Parlamento
 Em 1865, Pedro II pediu a elaboração de propostas para a emancipação. O decreto de 1866 libertou escravizados da nação aptos ao serviço do Exército, sob essa condição, e estendeu o benefício a suas esposas. Decretos de 1870 ordenaram alforrias na Fazenda de Santa Cruz e a liberdade dos filhos nascidos de mulheres escravizadas sob usufruto da Casa Imperial. A Lei do Ventre Livre, aprovada pelo Parlamento e sancionada pela regente Isabel em 1871, declarou livres os nascidos de mulheres escravizadas após sua vigência e libertos os escravizados da nação. A permanência de crianças sob controle senhorial e a supervisão estatal dos libertos mostram o alcance limitado e negociado dessas mudanças. Proprietários e representantes políticos combateram medidas que afetavam seu patrimônio e poder.
@@ -388,14 +388,14 @@ O que as cláusulas efetivamente previam
 Pela lei de 1871, o senhor devia criar o filho da mulher escravizada até os oito anos; então podia optar por indenização estatal ou por utilizar seus serviços até os 21. A lei reconheceu pecúlio e caminhos para obter alforria, além de matrícula e fundo de emancipação. A aplicação exigia documentação e acesso à Justiça, em relações profundamente desiguais.
 
 A lei de 1885 e a ruptura de 1888
-Aos sexagenários, a lei de 1885 impunha serviços por até três anos a título de indenização, cessando essa obrigação aos 65. Também estabelecia controles sobre os libertos. Por isso, sua importância não deve ser avaliada apenas pelo título. Em contraste, os dois artigos da Lei Áurea declararam extinta a escravidão e revogaram disposições contrárias. O texto não previu indenização nem um programa social: sua brevidade jurídica e seu alcance emancipatório são fatos distintos da insuficiência de políticas posteriores.`
+A lei de 1885 impunha aos sexagenários serviços por até três anos a título de indenização, cessando essa obrigação aos 65, e estabelecia controles sobre os libertos. Os dois artigos da Lei Áurea declararam extinta a escravidão e revogaram disposições contrárias. A Lei Áurea não previu indenização nem um programa de políticas sociais.`
   },
   {
     "id": "casa-imperial-escravidao",
     "period": "segundo-reinado",
-    "title": "Casa Imperial, alforrias e escravizados da nação",
+    "title": "Alforrias e medidas de emancipação da Casa Imperial",
     "date": "1864–1888",
-    "deck": "Alforrias da Coroa, trabalho no patrimônio público e reforma parlamentar.",
+    "deck": "Decretos, alforrias e legislação emancipatória entre 1864 e 1888.",
     "refs": [
       "imp_publica_pesquisa",
       "imp_constituicao",
@@ -403,67 +403,51 @@ Aos sexagenários, a lei de 1885 impunha serviços por até três anos a título
       "imp_decreto_1866",
       "imp_lei_1871",
       "imp_reg_1871",
-      "imp_abolicao",
-      "imp_opiniao_1869"
+      "imp_abolicao"
     ],
-    "text": `Propriedade particular e patrimônio da nação
-Na controvérsia publicada pela imprensa em 1868–1869, a Mordomia da Casa Imperial declarou que Pedro II não era proprietário particular de pessoas escravizadas. A Fazenda de Santa Cruz e a Quinta da Boa Vista integravam o patrimônio da nação; a Coroa tinha o usufruto de seus serviços. O deputado Tavares Bastos já distinguia essas condições em 1866, ao elogiar as alforrias custeadas pessoalmente pelo imperador. Propriedade estatal e usufruto eram categorias jurídicas da época e devem ser identificadas separadamente.
+    "text": `Alforrias e medidas da Casa Imperial
+Documentos do Fundo Casa Real e Mordomia-mor, examinados pela historiadora Ilana Peliciari Rocha, registram alforrias concedidas por ocasião dos casamentos de Isabel e Leopoldina, em 1864. Em 1870, decreto imperial determinou a libertação de filhos nascidos de mulheres escravizadas sob usufruto da Casa, com sustento e educação custeados até que pudessem trabalhar. Em novembro do mesmo ano, Pedro II ordenou cartas de liberdade para 159 pessoas da Fazenda de Santa Cruz.
 
-O trabalho nos estabelecimentos
-Os escravizados da nação trabalhavam em fazendas, fábricas, estabelecimentos militares e repartições. Registros da Fazenda de Santa Cruz e do Palácio de São Cristóvão identificam pessoas a serviço da Casa Imperial, inclusive em atividades domésticas. Havia também empregados livres e remunerados. A resposta da Mordomia mencionou gratificações semanais pagas a alguns trabalhadores ainda escravizados; gratificação, salário de pessoa livre e carta de alforria tinham efeitos jurídicos distintos. As condições variavam conforme a pessoa, o local e o ano.
+Medidas durante a guerra
+Em 1865, Pedro II solicitou propostas para a emancipação gradual. O Decreto de 1866 concedeu liberdade a pessoas escravizadas da nação destinadas ao serviço do Exército e a suas esposas. A medida vinculava a emancipação ao recrutamento militar.
 
-Alforrias promovidas por Pedro II
-Documentos do Fundo Casa Real e Mordomia-mor, examinados pela historiadora Ilana Peliciari Rocha, registram alforrias ligadas aos casamentos de Isabel e Leopoldina em 1864. Tavares Bastos afirmou que Pedro II pagava do próprio bolso pela libertação de escravizados da nação, cujo valor precisava ser recolhido ao patrimônio público. Em maio de 1870, um decreto imperial determinou que filhos nascidos de mulheres escravizadas sob usufruto da Casa fossem avaliados e libertados, com sustento e educação a cargo da Casa até poderem trabalhar. Em novembro do mesmo ano, Pedro II ordenou cartas de liberdade gratuitas para 159 pessoas da Fazenda de Santa Cruz. São atos documentados de emancipação anterior à Lei do Ventre Livre.
+Lei do Ventre Livre
+A lei de 1871, aprovada pela Assembleia e sancionada pela regente Isabel, declarou livres os filhos de mulheres escravizadas nascidos após sua vigência e libertou os escravizados da nação. Seu regulamento estabeleceu matrícula, fundo de emancipação e supervisão dos libertos por cinco anos.
 
-Reforma legal e resistência
-Pedro II solicitou propostas de emancipação em 1865. O decreto de 1866 libertou escravizados da nação destinados ao serviço militar e estendeu a medida a suas esposas; o vínculo com a guerra fazia parte da norma. A Lei do Ventre Livre de 1871, aprovada pela Assembleia e sancionada por Isabel como regente, libertou juridicamente os demais escravizados da nação. O regulamento ainda estabeleceu supervisão e ocupação designada por cinco anos. As medidas resultaram de iniciativas da Coroa, debates parlamentares e pressão social; enfrentaram resistência de setores ligados à propriedade escravista.
-
-Poder da Coroa e decisão parlamentar
-A Constituição de 1824 atribuía à Assembleia Geral a elaboração das leis, com sanção imperial. O Poder Moderador permitia ao monarca nomear e demitir ministros, escolher senadores a partir de listas e dissolver a Câmara nas condições previstas. Pedro II podia orientar gabinetes, apoiar projetos e sancionar leis, mas não decretar sozinho a abolição geral. A atuação de Isabel em 1871 e 1888 deve ser compreendida nesse arranjo: iniciativa política efetiva, negociação com ministros e votação parlamentar.
-
-Debate público da própria época
-O jornal abolicionista Opinião Liberal reconheceu a diferença entre propriedade particular e usufruto estatal, mas questionou, em 1869, o emprego de cativos da nação em benefício da Casa. Sua crítica integra a disputa política contemporânea. Os registros de alforria, a declaração da Mordomia e a situação jurídica dos trabalhadores documentam dimensões distintas dessa história. Na votação da Lei Áurea, senadores como o Barão de Cotegipe e Paulino de Souza defenderam abertamente os interesses de proprietários de pessoas escravizadas e se opuseram ao projeto. Essa oposição parlamentar e econômica tinha peso direto na manutenção do cativeiro.`
+Atribuições constitucionais
+A Assembleia Geral elaborava as leis e a sanção imperial integrava o processo legislativo. Pedro II podia nomear ministros e dissolver a Câmara nas condições constitucionais. A abolição geral exigiu aprovação parlamentar; em 1888, a regente Isabel sancionou a Lei Áurea aprovada pelas duas casas.`
   },
   {
     "id": "isabel-camelias",
     "period": "segundo-reinado",
-    "title": "Isabel, o Quilombo do Leblon e as camélias",
+    "title": "O Quilombo do Leblon e as camélias",
     "date": "Década de 1880–1888",
     "deck": "Flores tornaram pública uma aliança com redes de resistência à escravidão.",
     "refs": [
       "imp_isabel_museu",
       "imp_isabel_bn",
       "imp_isabel_bndigital",
-      "imp_isabel_promonarquia",
       "imp_camelias_1889",
       "imp_fala_1888",
       "imp_lei_aurea",
       "imp_abolicao"
     ],
-    "text": `Um quilombo urbano e sua rede
-Na chácara de José de Seixas Magalhães, no Leblon, pessoas que fugiam da escravidão encontravam proteção e cultivavam camélias. O lugar integrava redes abolicionistas da capital. As flores tornaram-se símbolo reconhecível de solidariedade aos fugitivos e de oposição ao cativeiro. A manutenção do refúgio dependia do trabalho das pessoas abrigadas, de recursos, de contatos e de proteção política.
+    "text": `O Quilombo do Leblon
+Na chácara de José de Seixas Magalhães, no Leblon, pessoas que haviam fugido da escravidão encontraram abrigo e cultivaram camélias. O local integrava redes abolicionistas do Rio de Janeiro. As flores passaram a ser associadas à campanha contra o cativeiro.
 
-O gesto público da princesa
-O Museu Imperial documenta a circulação das camélias entre o Leblon e as residências da família. A Biblioteca Nacional registra que Isabel apoiava a comunidade, financiava alforrias com recursos próprios e usava a flor nos cabelos em eventos da corte. Uma notícia publicada em 1889 recordou a entrega de camélias brancas à regente, em 3 de maio de 1888, em nome dos quilombolas do Leblon. Usar publicamente o emblema do movimento associava a herdeira do trono à causa abolicionista em um momento de conflito político.
+Isabel e as camélias
+Documentos do Museu Imperial e da Biblioteca Nacional registram a circulação de camélias entre o Leblon e as residências da família imperial, o uso público da flor por Isabel e seu apoio a alforrias. Uma notícia de 1889 recordou a entrega de camélias à regente em 3 de maio de 1888, em nome dos quilombolas do Leblon.
 
-Da aliança à lei
-Na regência de 1888, Isabel substituiu o gabinete de Cotegipe pelo de João Alfredo, favorável à abolição. Em 3 de maio, sua Fala do Trono pediu ao Parlamento a extinção do cativeiro. O gabinete apresentou o projeto, Câmara e Senado o aprovaram e ela sancionou a Lei Áurea em 13 de maio. Sua escolha ministerial, a mensagem ao Parlamento e a sanção foram decisões decisivas da chefia do Estado, articuladas com a ação dos parlamentares abolicionistas e com a mobilização de pessoas escravizadas, libertas e apoiadores.
-
-Uma linguagem política reconhecível
-O uso de camélias declarava uma posição em salões, ruas e cerimônias. Entre os participantes da rede havia fugitivos expostos à captura, organizadores do abrigo, jornalistas e figuras de prestígio com acesso à corte. A adesão pública de Isabel ampliava a visibilidade e a proteção política do movimento; o cultivo e a circulação das flores ligavam essas posições sociais distintas.
-
-Documento, símbolo e lembrança posterior
-Depois de 1888, a imagem de Isabel como “Redentora” ganhou força nas comemorações. A fotografia com camélia, os registros de apoio ao Leblon, as iniciativas de alforria e os atos de governo documentam seu engajamento. A Pró Monarquia preserva a interpretação favorável à atuação da família imperial; sua narrativa é identificada como memória institucional da Casa, ao lado dos documentos de época e dos acervos públicos. A rede abolicionista reunia também pessoas escravizadas e libertas, ativistas negros, jornalistas e parlamentares com posições diferentes sobre o futuro da monarquia.`
+A regência e a Lei Áurea
+Em 1888, Isabel substituiu o gabinete de Cotegipe pelo de João Alfredo. Na Fala do Trono de 3 de maio, pediu ao Parlamento a extinção da escravidão. Câmara e Senado aprovaram o projeto; Isabel sancionou a Lei Áurea em 13 de maio.`
   },
   {
     "id": "pos-abolicao-projetos",
     "period": "segundo-reinado",
-    "title": "Pós-abolição: terras, indenização e voto",
+    "title": "Pós-abolição: projetos de integração e voto",
     "date": "1888–1891",
-    "deck": "Propostas não aprovadas e uma carta de autenticidade disputada.",
+    "deck": "Propostas de acesso à terra e mudanças nas regras eleitorais, 1888–1891.",
     "refs": [
-      "imp_carta_1889",
-      "imp_carta_critica",
       "imp_reforma_pendente",
       "imp_eleicoes",
       "imp_voto_1891",
@@ -471,20 +455,17 @@ Depois de 1888, a imagem de Isabel como “Redentora” ganhou força nas comemo
       "imp_lei_saraiva_1881_original",
       "imp_regulamento_eleitoral_1881"
     ],
-    "text": `Projetos para depois da liberdade
-A Lei Áurea extinguiu o cativeiro, mas não criou uma política nacional de terra, educação ou compensação para quem havia sido escravizado. Abolicionistas como André Rebouças defenderam acesso à terra e outras medidas de integração. Propostas de colônias agrícolas e desapropriação circularam no fim do Império; não foram convertidas em uma política geral antes de novembro de 1889. Assim, é preciso distinguir intenção, projeto apresentado, lei aprovada e ação executada.
+    "text": `Projetos de integração após a abolição
+A Lei Áurea extinguiu o cativeiro em 13 de maio de 1888. Não estabeleceu indenização aos proprietários nem criou uma política nacional de terra, educação ou reparação para os libertos. André Rebouças defendeu reformas de acesso à terra; propostas de colônias agrícolas e desapropriação circularam no fim do Império, mas não se tornaram uma política geral antes de 1889.
 
-A carta atribuída a Isabel
-Uma carta datada de agosto de 1889 e atribuída à princesa Isabel menciona doação de fundos e terras para indenizar libertos. A autenticidade do documento é contestada por pesquisadores. Os projetos de integração apresentados no fim do Império e a carta atribuída à herdeira pertencem a conjuntos documentais diferentes. Até novembro de 1889 não havia sido aprovada uma política geral de reparação aos libertos.
+A República e a reparação
+Após a mudança de regime, não foi aprovada uma política nacional de reparação aos ex-escravizados e suas famílias. A Lei Áurea e a legislação republicana inicial não distribuíram terras nem organizaram um programa geral de indenização ou integração social.
 
-A República e a exclusão
-Após a derrubada da monarquia, a República não instituiu uma reparação abrangente aos ex-escravizados e suas famílias. A concentração de terras, o racismo e a ausência de educação pública ampla limitaram o exercício da liberdade. Quanto ao voto, a Lei Saraiva de 1881, ainda imperial, exigiu alfabetização para novos alistamentos e reduziu o eleitorado; parte dos eleitores já registrados foi mantida. A Constituição republicana de 1891 conservou a exclusão dos analfabetos e retirou o requisito de renda. Portanto, a República não criou a barreira de alfabetização, mas a manteve em um sistema eleitoral reformulado.
+Voto e cidadania
+A Lei Saraiva de 1881 passou a exigir alfabetização para novos alistamentos e reduziu o eleitorado; parte dos eleitores já inscritos permaneceu registrada. A Constituição republicana de 1891 manteve a exclusão dos analfabetos e aboliu o requisito censitário de renda. A mudança de regime, portanto, preservou essa barreira eleitoral estabelecida no Império.
 
-Reparar quem e por qual instrumento?
-O debate sobre indenização podia tratar de pretensões dos antigos senhores ou de recursos para os libertos — projetos socialmente opostos. Crédito agrícola, colônias e incentivo à imigração também não equivalem automaticamente a reparação. Para chamar uma medida de política reparatória, é necessário identificar beneficiários, orçamento, condições de acesso e execução.
-
-Liberdade construída no cotidiano
-Reunir famílias, escolher onde morar, negociar contratos e organizar associações foram formas concretas de exercer a emancipação. Libertos não foram apenas destinatários ausentes de políticas: atuaram para transformar suas condições. A falta de uma reforma abrangente da terra e do ensino, antes e depois de novembro de 1889, restringiu essas possibilidades. A hipótese de um governo de Isabel mais reformista pode ser discutida, mas precisa considerar Parlamento, proprietários, finanças e força militar; intenção individual não assegura aprovação de reformas.`
+Acesso à terra e ao trabalho
+Libertos organizaram famílias, associações e redes de trabalho e reivindicaram autonomia após a abolição. As propostas de acesso à terra defendidas por abolicionistas não foram adotadas como política nacional no fim do Império ou no início da República.`
   },
   {
     "id": "fim-imperio",
@@ -498,28 +479,24 @@ Reunir famílias, escolher onde morar, negociar contratos e organizar associaç�
       "imp_religiao",
       "imp_eleicoes",
       "imp_abolicao",
-      "imp_plebiscito",
       "imp_popularidade",
       "imp_imprensa_segundo",
       "imp_fala_1888"
     ],
     "text": `Alianças em transformação
-O republicanismo cresceu em clubes, jornais e setores provinciais; seus participantes tinham projetos diferentes. A abolição sem indenização contribuiu para afastar da monarquia parte dos grandes proprietários de pessoas escravizadas; a reação variou entre indivíduos e regiões. A defesa da propriedade e da continuidade do trabalho compulsório havia orientado a oposição de representantes da lavoura a projetos emancipatórios, como mostram os debates de 1888. Nem todos os antigos escravistas aderiram à República, e essa perda de apoio foi um entre vários fatores da crise. O Exército, fortalecido pela guerra, reivindicava autonomia e criticava punições e interferências políticas. A Questão Religiosa expôs tensões entre bispos e governo, sem produzir posição uniforme da Igreja.
+O republicanismo cresceu em clubes, jornais e setores provinciais, com projetos diversos. A abolição sem indenização afastou parte dos grandes proprietários escravistas da monarquia. No Parlamento, representantes da lavoura haviam defendido a propriedade escravista durante debates sobre medidas emancipadoras. Após a Guerra do Paraguai, setores do Exército reivindicavam autonomia e contestavam punições e interferências políticas. A Questão Religiosa envolveu conflitos entre bispos e o governo imperial.
 
 A ruptura de 1889
-Em 15 de novembro, tropas comandadas por Deodoro da Fonseca derrubaram o gabinete imperial e sustentaram a proclamação republicana, com participação de civis. A monarquia foi deposta e a família imperial enviada ao exílio. Não houve plebiscito ou eleição popular prévia que decidisse a mudança. O novo governo suspendeu pilares da ordem de 1824.
+Em 15 de novembro, tropas comandadas por Deodoro da Fonseca derrubaram o gabinete imperial e proclamaram a República, com participação de civis republicanos. A monarquia foi deposta e a família imperial enviada ao exílio. A mudança de regime ocorreu sem plebiscito ou eleição popular prévia.
 
-Continuidade e mudança
-A República alterou instituições e, depois, separou Igreja e Estado. Não instituiu reparação geral para libertos. Na legislação eleitoral, retirou a exigência censitária de renda, mas a Constituição de 1891 manteve a exclusão dos analfabetos, introduzida para novos alistamentos pela Lei Saraiva de 1881, ainda no Império. Em 1889, militares e civis republicanos derrubaram a monarquia sem consulta popular prévia. A oposição de parte dos proprietários à abolição contribuiu para o afastamento de apoios à Coroa, junto a conflitos militares, religiosos e institucionais; seu peso relativo deve ser avaliado com documentos da conjuntura, não tratado como causa única.
+Instituições e voto
+O governo provisório republicano alterou a estrutura do Estado. A Constituição de 1891 adotou a forma federativa, separou Igreja e Estado e manteve a exclusão eleitoral dos analfabetos; deixou de exigir renda mínima para o voto. A Lei Saraiva de 1881, ainda no Império, já exigia alfabetização para novos alistamentos e havia reduzido o eleitorado.
 
 Imprensa e debate político
-Pedro II foi alvo de críticas e charges em jornais durante o Segundo Reinado. O Arquivo do Senado registra caricaturas desfavoráveis ao monarca e uma carta na qual ele defendeu responder publicamente aos ataques da imprensa. Nas questões emancipatórias, Pedro II e Isabel influíam por escolhas de gabinete, mensagens e sanção; a Assembleia precisava aprovar as leis. O Poder Moderador não autorizava o monarca a substituir sozinho a votação parlamentar.
+Pedro II foi alvo de críticas e caricaturas na imprensa durante o Segundo Reinado. O Arquivo do Senado preserva exemplos dessas imagens e uma carta em que o imperador comenta os ataques publicados.
 
-A sucessão e o último gabinete
-A perspectiva de um Terceiro Reinado colocava Isabel, sua atuação abolicionista e o papel do conde d’Eu no centro das expectativas e rejeições. O gabinete Ouro Preto tentou responder à crise com reformas, mas enfrentou adversários e desconfianças militares. O golpe foi uma ação de atores identificáveis em uma conjuntura de perda de apoio: o apoio popular à família não se converteu em força organizada capaz de impedir a deposição.
-
-Uma data não explica toda a República
-O governo provisório de 1889 e a Constituição de 1891 abriram uma nova ordem; a democracia de 1988 resulta de outro processo, separado por guerras, autoritarismos e mobilizações sociais. A ausência de consulta em 1889 deve ser registrada sem apagar a consulta de 1993, quando o eleitorado escolheu República e presidencialismo. Avaliar monarquia e República exige distinguir legitimidade de origem, mecanismos institucionais e resultados sociais de cada fase.`
+O último gabinete
+A sucessão de Pedro II colocou Isabel e o conde d’Eu no centro dos debates sobre o Terceiro Reinado. O gabinete de Ouro Preto propôs reformas políticas e administrativas antes da proclamação republicana. A crise envolvia disputas entre governo, oficiais do Exército, republicanos civis, setores proprietários e defensores da monarquia.`
   },
   {
     "id": "economia-financas-imperio",
@@ -689,29 +666,23 @@ O Império tinha capacidade diplomática e militar e defendia interesses própri
   {
     "id": "popularidade-monarquia",
     "period": "segundo-reinado",
-    "title": "Popularidade da família imperial e monarquismo popular",
+    "title": "Manifestações de apoio à monarquia",
     "date": "1840–1889",
-    "deck": "Festas, petições e associações revelam apoios reais, sem oferecer uma pesquisa nacional de opinião.",
+    "deck": "Festas, petições e associações registram vínculos com a família imperial.",
     "refs": [
       "imp_popularidade",
       "imp_festas",
       "imp_imagens_monarca",
       "imp_republica"
     ],
-    "text": `Apoio observado, alcance limitado
-Festas, recepções, retratos, petições e homenagens documentam vínculos com a Coroa. A presença de multidões em uma cerimônia não fornece uma porcentagem nacional de aprovação. É preciso identificar local, organizadores, participantes e ocasião. Prestígio pessoal de Pedro II, adesão a Isabel e defesa das instituições monárquicas podiam se sobrepor sem serem a mesma coisa.
+    "text": `Registros de apoio à monarquia
+Festas, recepções, petições, retratos e homenagens registram manifestações de apoio à família imperial em diferentes localidades e momentos. Esses documentos incluem pedidos dirigidos ao imperador e celebrações públicas da dinastia.
 
-Uma relação construída
-Pedir auxílio ou justiça ao imperador podia ser uma maneira de buscar proteção contra autoridades locais. Essa linguagem não significa passividade: súditos utilizavam a imagem de um governante justo para reivindicar providências. Viagens e audiências aproximavam a pessoa do monarca de comunidades, ao mesmo tempo que produziam uma representação política cuidadosamente registrada por jornais e cerimônias. As fontes também contêm sátira, críticas e rejeição.
+Monarquismo negro após a abolição
+A pesquisa de Hendrik Kraay documenta manifestações de apoio à monarquia entre setores negros e populares, especialmente após maio de 1888. A Guarda Negra e as homenagens a Isabel aparecem em registros de época e estudos sobre o período. Também houve monarquistas e republicanos entre a população negra, com projetos políticos diversos.
 
-Liberdade e monarquismo negro
-A pesquisa de Hendrik Kraay identifica manifestações de apoio popular e negro à monarquia, intensificadas depois de maio de 1888. A Guarda Negra e homenagens a Isabel mostram que setores de libertos viam a Coroa como aliada na defesa da liberdade. Não eram simples reflexo da vontade das elites. Esse monarquismo coexistia com outras posições políticas negras, inclusive republicanas; reduzir todos os libertos à gratidão pessoal apaga projetos e escolhas.
-
-Conflito nas ruas
-As celebrações da abolição eram também disputas sobre quem deveria receber reconhecimento e qual regime protegeria a liberdade. Estudos de Campinas e Piracicaba mostram a variedade dessas manifestações. No Rio, a Guarda Negra participou de confrontos e ataques a atividades republicanas. Reconhecer o sentido político de sua atuação não exige omitir violência, assim como críticas de adversários não devem ser aceitas sem exame.
-
-Por que o apoio não impediu 1889?
-Popularidade não equivale a controle sobre tropas, ministros e redes de poder. Apoio disperso, recursos organizativos desiguais e decisões militares ajudam a compreender essa diferença. A deposição sem consulta popular não prova unanimidade republicana; a existência de monarquistas populares tampouco prova unanimidade nacional a favor da dinastia. O retrato histórico mais sólido conserva essa diversidade.`
+Disputas políticas nas ruas
+As comemorações da abolição envolveram disputas sobre o papel de Isabel e da Coroa. A Guarda Negra participou de confrontos com grupos republicanos no Rio de Janeiro. Os registros de homenagens, petições, festas e conflitos mostram diferentes formas de relação entre população e monarquia durante as décadas finais do Império.`
   },
   {
     "id": "cotidiano-populacao",
@@ -767,9 +738,9 @@ O episódio permite analisar como políticas públicas dependem de informação,
   {
     "id": "comparar-imperio-republica",
     "period": "segundo-reinado",
-    "title": "Império, Repúblicas e Brasil recente: como comparar",
-    "date": "1822–2022; marcos constitucionais até 1988",
-    "deck": "Instituições, direitos e resultados precisam de critérios e datas explícitos.",
+    "title": "Constituições de 1824, 1891 e 1988",
+    "date": "1824; 1891; 1988",
+    "deck": "Mudanças constitucionais na forma de Estado, no voto, na religião e nos direitos sociais.",
     "refs": [
       "imp_constituicao",
       "imp_eleicoes",
@@ -779,158 +750,62 @@ O episódio permite analisar como políticas públicas dependem de informação,
       "imp_lei_saraiva_1881_original",
       "imp_regulamento_eleitoral_1881",
       "imp_const1988",
-      "imp_alfabetizacao2022",
-      "imp_orcamento1888",
-      "imp_plebiscito"
     ],
-    "text": `Separar períodos e perguntas
-O Império durou de 1822 a 1889 e mudou internamente. A República reúne regimes oligárquicos, ditaduras e experiências democráticas. Não é adequado comparar o melhor ano de um período com a pior crise de outro e atribuir toda diferença à presença de um monarca ou presidente. O quadro deve considerar duração, população, tecnologia disponível, contexto internacional e políticas efetivamente executadas.
+    "text": `Constituições e formas de Estado
+A Constituição de 1824 organizou uma monarquia hereditária, com Poder Moderador exercido pelo imperador e Legislativo bicameral. A Constituição de 1891 instituiu a República federativa, a presidência eletiva e a separação entre Igreja e Estado. A Constituição de 1988 define o Brasil como República federativa e Estado democrático de direito, com Poderes Legislativo, Executivo e Judiciário.
 
-Participação política
-Em 1824, eleições indiretas, renda, sexo, condição jurídica e idade delimitavam a participação; libertos podiam votar na etapa paroquial, mas não ser eleitores de segundo grau. Em 1881, a Lei Saraiva instituiu eleições diretas e alfabetização para novos alistamentos, preservando parte dos registros anteriores. A Constituição de 1891 manteve a exclusão dos analfabetos e retirou o requisito de renda. A Constituição de 1988 assegura voto facultativo aos analfabetos, ainda inelegíveis. São regras diferentes, que devem ser comparadas por critérios de elegibilidade e também pelo acesso efetivo ao alistamento e às eleições.
+Regras eleitorais
+Em 1824, o voto era indireto e censitário. Cidadãos ativos escolhiam eleitores de província; libertos podiam votar nas assembleias paroquiais, mas não ser eleitores de segundo grau. Em 1881, a Lei Saraiva instituiu eleições diretas, manteve renda mínima e passou a exigir alfabetização para novos alistamentos, preservando parte dos registros anteriores. A Constituição de 1891 excluiu analfabetos do voto e retirou o requisito de renda. A Constituição de 1988 concede voto facultativo aos analfabetos e os mantém inelegíveis.
 
-Educação: um indicador com data
-No Censo 2022, o IBGE registrou analfabetismo de 7,0% entre pessoas de 15 anos ou mais. O indicador não descreve automaticamente a situação de 2026 e não mede sozinho qualidade da aprendizagem. A desigualdade racial permanece: no mesmo recorte, a taxa entre brancos era de 4,3%. Para cotejar com 1872, é indispensável reconstruir a mesma faixa etária e verificar categorias e cobertura. Aqui não se apresenta uma série contínua que os dados reunidos não permitem.
+Religião e Estado
+A Constituição imperial declarou o catolicismo religião oficial e atribuiu ao governo competências de padroado. A Constituição republicana de 1891 separou formalmente Igreja e Estado. A Constituição de 1988 protege a liberdade de consciência e de crença e veda ao Estado estabelecer ou subvencionar religiões.
 
-Direitos e condições materiais
-A Constituição de 1988 reconhece saúde e educação como direitos e direitos originários dos povos indígenas. O Império construiu instituições e infraestrutura, mas preservou escravidão até 1888 e não universalizou a escola. A República herdou desigualdades, aprofundou algumas exclusões e, em fases posteriores, ampliou direitos. Norma e realidade devem continuar separadas: reconhecer um direito não prova que todos tenham acesso efetivo.
-
-Economia e custo do Estado
-Valores de 1888 ajudam a estudar prioridades daquele orçamento; não podem ser convertidos em julgamento sobre toda a administração contemporânea sem equivalência contábil. A avaliação deve acompanhar renda por habitante, distribuição, cobertura de serviços, liberdade e controle público. Uma inauguração, uma biografia admirável ou um escândalo isolado não representa sozinho um regime inteiro.`
-  },
-  {
-    "id": "alternativas-historicas",
-    "period": "segundo-reinado",
-    "title": "Como poderia ter sido? Reformas e cenários condicionais",
-    "date": "Hipóteses a partir de 1888–1889",
-    "deck": "Caminhos alternativos são ferramentas de análise, não acontecimentos comprovados.",
-    "refs": [
-      "imp_reforma_pendente",
-      "imp_carta_critica",
-      "imp_constituicao",
-      "imp_const1988",
-      "imp_plebiscito"
-    ],
-    "text": `O ponto de partida documentado
-Em 1888, havia liberdade jurídica recém-conquistada, concentração fundiária, exclusão eleitoral e propostas de integração dos libertos. A Coroa, o Parlamento, proprietários, militares e movimentos sociais tinham interesses diferentes. Esse é o conjunto de condições a partir do qual se pode formular hipóteses. A carta de indenização atribuída a Isabel, de autenticidade contestada, não pode funcionar como garantia de um futuro programa.
-
-Cenário A: monarquia com reformas inclusivas
-Uma continuação monárquica poderia, em hipótese, combinar limitação do Poder Moderador, governo parlamentar responsável, expansão do voto, escolarização e acesso à terra. Para isso, seriam necessárias coalizões capazes de aprovar e financiar medidas e enfrentar resistências. A permanência da família no trono não asseguraria esse conjunto de decisões. A hipótese se fortalece com projetos e alianças documentados; enfraquece quando depende apenas da vontade atribuída a uma pessoa.
-
-Cenário B: continuidade conservadora
-Também seria possível preservar a monarquia e limitar reformas, mantendo poder oligárquico e desigualdade. A estabilidade institucional poderia conviver com baixa inclusão. Esse cenário lembra que evitar o golpe não resolveria automaticamente a questão fundiária, o racismo ou a escolarização. A variável decisiva não é apenas o título do chefe de Estado, mas a distribuição de poder e recursos.
-
-Cenário C: República mais inclusiva desde a origem
-Uma República com participação ampliada, reparação e educação teria igualmente exigido enfrentar proprietários e estruturas de exclusão. Sua proclamação não tornou essas reformas inevitáveis, como a experiência posterior demonstrou. Comparar alternativas implica identificar instrumentos: orçamento escolar, regras eleitorais, crédito, terra e garantias judiciais, com responsáveis e beneficiários definidos.
-
-O debate no presente
-O plebiscito de 1993 separou forma de governo — monarquia ou República — e sistema — parlamentarismo ou presidencialismo; prevaleceram República e presidencialismo. Uma monarquia constitucional contemporânea imaginada não deve ser confundida com a restauração integral da Carta de 1824, assim como parlamentarismo não é sinônimo de monarquia. Os critérios úteis para qualquer proposta são direitos, fiscalização, representação, capacidade de executar políticas e proteção contra concentração de poder. Estes cenários não projetam PIB, popularidade ou ausência de golpes sem base verificável.`
+Abolição e direitos sociais
+A escravidão permaneceu legal no Império até a Lei Áurea, em 1888. A Constituição de 1988 reconhece direitos sociais, incluindo saúde e educação, e direitos originários dos povos indígenas.`
   },
   {
     "id": "viagens-bell-telefone",
     "period": "segundo-reinado",
-    "title": "Curiosidades: Pedro II, Graham Bell e o telefone",
+    "title": "Pedro II e o telefone na Exposição da Filadélfia",
     "date": "1876–1879",
-    "deck": "Uma demonstração na Filadélfia ligou curiosidade pessoal, prestígio e inovação.",
+    "deck": "Documentos registram a participação de Pedro II na apresentação do aparelho em 1876.",
     "refs": [
       "imp_bell",
       "imp_bell_medalha",
-      "imp_telefone",
-      "imp_telegrafos"
+      "imp_telefone"
     ],
-    "text": `O encontro na exposição
-Em 1876, Pedro II visitou os Estados Unidos durante as comemorações do centenário da independência. Na Exposição Internacional da Filadélfia, participou da demonstração do telefone de Alexander Graham Bell. O episódio é registrado pelo Arquivo Nacional e pelo Museu Imperial, que conserva uma medalha comemorativa brasileira do evento. O interesse de um visitante de grande visibilidade ajudou a chamar atenção para o aparelho.
+    "text": `A Exposição da Filadélfia
+Em 1876, durante a viagem aos Estados Unidos para as comemorações do centenário da independência norte-americana, Pedro II participou da Exposição Internacional da Filadélfia. O Brasil apresentou produtos agrícolas e industriais em pavilhão próprio; o café teve espaço de exposição.
 
-“Isto fala!”: fato e formulação da anedota
-A Biblioteca Nacional apresenta a experiência de ouvir Bell pelo receptor e a exclamação de surpresa do imperador. A frase circula em traduções diferentes, como “Meu Deus, isto fala!” e “Céus! Isto fala!”. O núcleo documentado é sua participação e seu entusiasmo; a redação consagrada deve ser identificada como relato transmitido pelas fontes, sem tratar cada versão portuguesa como transcrição literal de uma gravação.
+A demonstração do telefone
+Alexander Graham Bell apresentou seu aparelho na exposição. O Arquivo Nacional e o Museu Imperial registram a participação de Pedro II e preservam documentação e uma medalha relacionada ao evento. A Biblioteca Nacional relata o interesse do imperador pela demonstração.
 
-Da demonstração à adoção
-As primeiras instalações telefônicas ligadas à Casa Imperial aparecem na documentação do fim da década de 1870; a Biblioteca Nacional situa a chegada dos aparelhos em 1877. O interesse imperial favoreceu visibilidade e adoção inicial. Não significa que Pedro II tenha inventado o telefone, financiado sozinho a pesquisa de Bell ou criado imediatamente uma rede nacional acessível. A implantação de telefonia exigia empresas, autorizações, operadores e assinantes.
-
-A exposição tinha mais de um objetivo
-Máquinas e ciência conviviam com a apresentação de produtos brasileiros, especialmente o café. Participar dessas exposições era uma forma de promover comércio e uma imagem internacional de país moderno. O contraste com a escravidão ainda vigente fazia parte das contradições dessa representação. A curiosidade tecnológica do monarca é um fato relevante, mas precisa ser conectada ao alcance social das inovações.
-
-Como conferir
-O dossiê reúne um objeto do acervo do Museu Imperial, a contextualização do Arquivo Nacional e o artigo da Biblioteca Nacional. Esses registros sustentam o encontro e sua repercussão. Afirmações mais abrangentes sobre prioridade mundial, investimento acionário ou cobertura telefônica precisam de documentação específica e não são usadas aqui como medida do desenvolvimento de todo o país.`
+Instalação no Paço
+A Biblioteca Nacional registra a instalação de aparelhos telefônicos no Paço de São Cristóvão em 1877. A experiência integra os primeiros usos do telefone no Brasil.`
   },
   {
     "id": "viagens-europa-oriente",
     "period": "segundo-reinado",
-    "title": "Curiosidades: Paris, Egito e o mundo árabe",
+    "title": "Viagens internacionais de Pedro II",
     "date": "1871–1872; 1876–1877; 1887–1888",
-    "deck": "Diários e coleções revelam interesses intelectuais e contatos internacionais.",
+    "deck": "Diários de viagem registram visitas a Paris, ao Egito e a Damasco.",
     "refs": [
       "imp_diarios",
       "imp_egito",
       "imp_arabes",
       "imp_oriente",
-      "imp_paris",
-      "imp_fotografia"
+      "imp_paris"
     ],
-    "text": `Três grandes viagens ao exterior
-Pedro II realizou três grandes viagens durante o reinado: 1871–1872, 1876–1877 e 1887–1888. Isabel exerceu a regência em suas ausências. Os itinerários combinaram visitas familiares, saúde, instituições científicas, museus e encontros públicos. Não devem ser confundidos com a saída forçada do Brasil em 1889 e a vida no exílio.
+    "text": `Viagens registradas
+Durante o reinado, Pedro II realizou viagens ao exterior em 1871–1872, 1876–1877 e 1887–1888. Isabel exerceu a regência durante as ausências. Diários e documentos de viagem registram itinerários, visitas e encontros.
 
-Paris e Victor Hugo
-Em Paris, em 1877, Pedro II visitou Victor Hugo, conforme a documentação apresentada pela Biblioteca Nacional. O encontro aproxima um imperador de um escritor republicano de prestígio internacional; não implica concordância em todas as posições políticas. A capital francesa era um centro editorial, científico e cultural importante para suas redes. Sua morte em Paris, em 1891, pertence à história do exílio, não a uma quarta viagem como soberano reinante.
+Paris, 1877
+Em maio de 1877, Pedro II visitou o escritor Victor Hugo em Paris. A Biblioteca Nacional preserva relato e documentação sobre o encontro.
 
-Egito e arqueologia
-O imperador esteve no Egito em 1871 e novamente entre 1876 e 1877. Visitou sítios e monumentos e manteve contatos com estudiosos, entre eles o egiptólogo Auguste Mariette. Fotografias adquiridas nas viagens integraram sua coleção e hoje permitem estudar tanto os lugares registrados quanto os interesses do colecionador. Possuir uma imagem não demonstra ter estado pessoalmente em todos os locais retratados.
+Egito
+Pedro II esteve no Egito em novembro de 1871 e entre dezembro de 1876 e janeiro de 1877. Em suas viagens encontrou os egiptólogos Auguste Mariette e Heinrich Brugsch e visitou monumentos do país. Os diários registram seus comentários sobre história, arqueologia e hieróglifos.
 
-Damasco e a região otomana
-Na viagem de 1876, percorreu localidades de regiões hoje associadas ao Líbano, Síria e Palestina. É necessário usar também a geografia política da época: grande parte desse espaço integrava o Império Otomano, e não os Estados nacionais atuais. A FUNAG reproduz o registro de seu encontro com o emir Abd-el-Kader em Damasco, em novembro de 1876, incluindo a troca de fotografias. Visitas a lugares religiosos e interesse por línguas mostram uma curiosidade que atravessava tradições cristãs, judaicas e muçulmanas.
-
-Intercâmbio e seus limites
-Esses contatos ajudaram a dar visibilidade ao Brasil e compõem a história de suas relações culturais. Não autorizam atribuir toda a imigração árabe posterior às viagens do imperador, nem demonstram por si sua popularidade atual em países inteiros. Diários são observações de um visitante: preservam descobertas, preferências e também os enquadramentos culturais de seu tempo.`
+Damasco e o Império Otomano
+Em novembro de 1876, Pedro II visitou Damasco, então parte do Império Otomano. O diário e estudos diplomáticos registram seu encontro com o emir Abd-el-Kader e a troca de fotografias.`
   },
-  {
-    "id": "pedro-japao",
-    "period": "segundo-reinado",
-    "title": "Curiosidades: Pedro II e o Japão — uma viagem que não ocorreu",
-    "date": "Coleção fotográfica do século XIX",
-    "deck": "O vínculo documentado é cultural e colecionista, não uma visita ao território japonês.",
-    "refs": [
-      "imp_japao",
-      "imp_fotografia",
-      "imp_diarios"
-    ],
-    "text": `A correção documental
-A Biblioteca Nacional informa expressamente que Pedro II nunca visitou o Japão. Portanto, a afirmação de uma viagem imperial ao país não integra a cronologia deste arquivo. Seus roteiros internacionais e os diários preservados devem orientar a identificação dos destinos, evitando misturar viagens de outros monarcas ou de integrantes posteriores da família com sua biografia.
-
-O Japão em sua coleção
-O artigo da Biblioteca Nacional identifica 24 imagens de paisagens japonesas, templos, palácios e outros lugares históricos entre as fotografias de sua coleção. Esse material mostra interesse por um país que ele não conheceu pessoalmente. Fotografias podiam ser compradas, recebidas ou adquiridas por intermediários: colecionar imagens era uma maneira de acompanhar o mundo sem visitar cada local representado.
-
-Uma curiosidade sobre a própria fotografia
-A coleção Thereza Christina Maria foi formada por contratação de profissionais e aquisição de fotografias brasileiras e estrangeiras. Ela documenta redes de produção e circulação de imagens, além dos interesses da família. O nome de um lugar em um álbum não é prova de presença do proprietário naquele lugar; é necessário verificar legenda, autoria, data e proveniência.
-
-Reconhecimento posterior
-A existência de acervo, exposição ou homenagem não permite afirmar que Pedro II seja amplamente conhecido pela população japonesa. Essa é uma pergunta diferente, que exigiria fontes sobre recepção e memória no Japão. A curiosidade comprovada aqui é seu interesse visual e cultural por aquele país. Separar essa evidência da viagem inexistente preserva o valor histórico da coleção e evita que uma informação incorreta se transforme em biografia.`
-  },
-  {
-    "id": "viagens-paisana-financiamento",
-    "period": "segundo-reinado",
-    "title": "Curiosidades: viagens à paisana e quem pagava",
-    "date": "Décadas de 1870–1880",
-    "deck": "Informalidade, recursos da Casa e relatos de empréstimos precisam ser distinguidos.",
-    "refs": [
-      "imp_imagens_monarca",
-      "imp_diarios",
-      "imp_oriente",
-      "imp_dotacao",
-      "imp_orcamento1888"
-    ],
-    "text": `O que significava viajar “incógnito”
-Pedro II procurava dispensar parte das formalidades e apresentar-se como Pedro de Alcântara. Viajar com roupas civis e evitar cerimônias lhe dava mais liberdade para visitar escolas, bibliotecas e instituições. “Incógnito” era também uma convenção de protocolo: não significa que ninguém soubesse quem era o visitante. Encontros com autoridades, imprensa e recepções mostram que a identidade imperial permanecia conhecida.
-
-A imagem do viajante simples
-Relatos de hábitos modestos contribuíram para a figura do imperador estudioso e acessível. A pesquisa da UFF sobre representações de Pedro II mostra como biografias associavam essas qualidades à legitimação da monarquia. Isso não torna todo relato falso; exige distinguir o comportamento observado da conclusão política que um autor pretendia produzir. Uma mala carregada pelo próprio viajante não informa, por si, o orçamento de uma comitiva.
-
-Dotação não é sinônimo de patrimônio privado
-A Casa Imperial recebia dotações votadas pelo Legislativo. Dizer que uma despesa saiu dos recursos administrados pela Casa é diferente de demonstrar que não teve nenhuma origem pública. Também é necessário separar passagens, hospedagem e compras pessoais de transporte, apoio diplomático e serviços prestados por instituições estatais. O orçamento anual documenta dotações, mas não discrimina sozinho todos os custos de cada viagem.
-
-E os empréstimos?
-Circulam relatos de que Pedro II recorria a empréstimos pessoais para custear viagens. Na documentação reunida para esta revisão, não foi possível comprovar banco, valor, contrato e quitação de uma operação específica. O arquivo registra a alegação como questão ainda não confirmada, sem afirmar que todas as viagens foram financiadas dessa maneira ou que não representaram custo público. Ausência de comprovação nesta pesquisa também não prova que nenhum empréstimo tenha existido.
-
-Como aprofundar a apuração
-Contas da Mordomia, correspondência, livros de despesas e documentação bancária podem esclarecer cada operação. A verificação precisa identificar quem tomou o crédito e com que recursos pagou. Empréstimos de uma estrada de ferro chamada D. Pedro II, por exemplo, são operações de uma empresa e não empréstimos pessoais do imperador. Curiosidades financeiras só devem ganhar valores e conclusões quando essa identificação estiver demonstrada.`
-  }
 ];

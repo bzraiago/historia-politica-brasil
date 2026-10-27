@@ -196,10 +196,6 @@ const imperialSources = {
     "Imprensa Nacional — Mulheres e resistência no Primeiro Reinado",
     "https://www.gov.br/imprensanacional/pt-br/canais_atendimento/exposicao-especial-in-setembro-2025-texto-final-e-book-26-09-p.pdf"
   ],
-  "imp_opiniao_1869": [
-    "Hemeroteca da Biblioteca Nacional — Debate entre a Mordomia e o jornal Opinião Liberal, 1869",
-    "https://hemeroteca-pdf.bn.gov.br/359696/per359696_1869_00077.pdf"
-  ],
   "imp_publica_pesquisa": [
     "USP — Pesquisa sobre os escravizados da nação e o usufruto da Casa Imperial",
     "https://teses.usp.br/teses/disponiveis/8/8137/tde-31082012-100444/publico/2012_IlanaPeliciariRocha_VRev.pdf"
@@ -211,10 +207,6 @@ const imperialSources = {
   "imp_isabel_bndigital": [
     "Biblioteca Nacional Digital — Isabel, financiamento de alforrias e camélias do Leblon",
     "https://bndigital.bn.gov.br/princesa-isabel-2/"
-  ],
-  "imp_isabel_promonarquia": [
-    "Pró Monarquia — Memória da Casa Imperial sobre Isabel e o abolicionismo",
-    "https://monarquia.org.br/a-familia-imperial/arvore-genealogica/princesa-isabel/"
   ],
   "imp_camelias_1889": [
     "Hemeroteca da Biblioteca Nacional — Memória das camélias entregues a Isabel em 1888, publicada em 1889",
@@ -264,14 +256,6 @@ const imperialSources = {
     "Câmara — Lei Áurea, texto original de 1888",
     "https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-3353-13-maio-1888-533138-publicacaooriginal-16269-pl.html"
   ],
-  "imp_carta_1889": [
-    "Fundação Palmares — Artigo que atribui a Isabel uma carta sobre indenização aos libertos",
-    "https://www.gov.br/palmares/pt-br/midias/arquivos/artigos-institucionais/artigo-49.pdf"
-  ],
-  "imp_carta_critica": [
-    "Revista de História da USP — Análise da carta atribuída a Isabel e de sua autenticidade disputada",
-    "https://www.scielo.br/j/rh/a/jC4pBfbSXpRJ7KK4g3hjZBD/?format=pdf&lang=pt"
-  ],
   "imp_reforma_pendente": [
     "Fundação Joaquim Nabuco — Propostas de terra e colônias para libertos não convertidas em lei",
     "https://pesquisaescolar.fundaj.gov.br/pt-br/artigo/reforma-agraria-no-brasil/"
@@ -319,10 +303,6 @@ const imperialSources = {
   "imp_ferrovias": [
     "DNIT — Histórico das ferrovias brasileiras",
     "https://www.gov.br/dnit/pt-br/assuntos/ferrovias/historico"
-  ],
-  "imp_telegrafos": [
-    "Arquivo Nacional / MAPA — Repartição dos Telégrafos",
-    "https://mapa.arquivonacional.gov.br/index.php/assuntos/15-dicionario/65-dicionario-da-administracao-publica-brasileira-do-periodo-imperial/336-reparticao-dos-telegrafos"
   ],
   "imp_eletricidade": [
     "Museu Histórico de Campos / Prefeitura — Iluminação elétrica em 1883",
@@ -372,17 +352,9 @@ const imperialSources = {
     "IBGE — População recenseada em 1872 e população declarada escravizada",
     "https://www.ibge.gov.br/casabrasil/sudene-recife/noticias-sudene-recife/noticia?n=19179-casa-brasil-ibge-sudene-conecta-dados-divulga-pesquisas-tecnologia-e-inclusao-em-evento-com-os-comites-do-grupo-mulheres-do-brasil"
   ],
-  "imp_alfabetizacao2022": [
-    "IBGE — Censo 2022: alfabetização e desigualdades (15 anos ou mais)",
-    "https://educa.ibge.gov.br/criancas/brasil/2848-nosso-povo/22320-alfabetizacao.html"
-  ],
   "imp_const1988": [
     "Planalto — Constituição de 1988, texto atualizado: arts. 14, 196, 205 e 231",
     "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
-  ],
-  "imp_plebiscito": [
-    "TSE — Plebiscito de 1993 e resultados documentais",
-    "https://www.tse.jus.br/eleicoes/plebiscitos-e-referendos/plebiscito-1993/plebiscito-de-1993"
   ],
   "imp_bell": [
     "Arquivo Nacional — Brasil na Exposição da Filadélfia, 1876",
@@ -396,9 +368,9 @@ const imperialSources = {
     "Biblioteca Nacional — Dia do Telefone e demonstração de Bell",
     "https://bndigital.bn.gov.br/artigos/efemerides-10-de-marco-dia-do-telefone/"
   ],
-  "imp_japao": [
-    "Biblioteca Nacional — Japão no acervo de Pedro II; o imperador não visitou o país",
-    "https://bndigital.bn.gov.br/artigos/18-de-junho-113-anos-da-imigracao-japonesa-no-brasil/"
+  "imp_telegrafos": [
+    "Arquivo Nacional / MAPA — Repartição dos Telégrafos",
+    "https://mapa.arquivonacional.gov.br/index.php/assuntos/15-dicionario/65-dicionario-da-administracao-publica-brasileira-do-periodo-imperial/336-reparticao-dos-telegrafos"
   ],
   "imp_egito": [
     "Biblioteca Nacional — Viagens ao Egito e fotografias da coleção imperial",
@@ -422,7 +394,7 @@ const imperialSources = {
   ],
   "imp_paris": [
     "Biblioteca Nacional — Victor Hugo e a visita de Pedro II a Paris, 1877",
-    "https://bndigital.bn.gov.br/francebr/frances/victor_hugo.htm"
+    "https://bndigital.bn.gov.br/francebr/victor_hugo_port.htm"
   ],
   "imp_fotografia": [
     "Biblioteca Nacional — Coleção Thereza Christina Maria e aquisição de fotografias",
