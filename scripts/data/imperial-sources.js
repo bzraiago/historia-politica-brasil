@@ -104,12 +104,8 @@ const imperialSources = {
     "Imprensa Nacional — Mulheres e resistência no Primeiro Reinado",
     "https://www.gov.br/imprensanacional/pt-br/canais_atendimento/exposicao-especial-in-setembro-2025-texto-final-e-book-26-09-p.pdf"
   ],
-  "imp_casa_1869": [
-    "Hemeroteca da Biblioteca Nacional — Mordomia da Casa Imperial sobre alforrias e escravizados da nação, 1869",
-    "https://hemeroteca-pdf.bn.gov.br/359696/per359696_1869_00001.pdf"
-  ],
   "imp_opiniao_1869": [
-    "Hemeroteca da Biblioteca Nacional — Crítica abolicionista à Casa Imperial, 1869",
+    "Hemeroteca da Biblioteca Nacional — Debate entre a Mordomia e o jornal Opinião Liberal, 1869",
     "https://hemeroteca-pdf.bn.gov.br/359696/per359696_1869_00077.pdf"
   ],
   "imp_publica_pesquisa": [
@@ -119,6 +115,22 @@ const imperialSources = {
   "imp_isabel_bn": [
     "Senado — Atuação política da princesa Isabel no abolicionismo",
     "https://www12.senado.leg.br/noticias/especiais/arquivo-s/cem-anos-da-morte-da-princesa-isabel-a-regente-que-reinou-alem-do-machismo"
+  ],
+  "imp_isabel_bndigital": [
+    "Biblioteca Nacional Digital — Isabel, financiamento de alforrias e camélias do Leblon",
+    "https://bndigital.bn.gov.br/princesa-isabel-2/"
+  ],
+  "imp_isabel_promonarquia": [
+    "Pró Monarquia — Memória da Casa Imperial sobre Isabel e o abolicionismo",
+    "https://monarquia.org.br/a-familia-imperial/arvore-genealogica/princesa-isabel/"
+  ],
+  "imp_camelias_1889": [
+    "Hemeroteca da Biblioteca Nacional — Memória das camélias entregues a Isabel em 1888, publicada em 1889",
+    "https://hemeroteca-pdf.bn.gov.br/085669/per085669_1889_00150.pdf"
+  ],
+  "imp_imprensa_segundo": [
+    "Senado — Críticas e charges da imprensa a Pedro II",
+    "https://www12.senado.leg.br/noticias/especiais/arquivo-s/parlamento-derrubou-planos-de-d-pedro-i-de-restringir-a-liberdade-de-imprensa"
   ],
   "imp_isabel_museu": [
     "Museu Imperial — Camélias, Quilombo do Leblon e política abolicionista",

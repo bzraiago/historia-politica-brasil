@@ -311,7 +311,7 @@ Quem fez a abolição
 Fugas coletivas, recusas ao trabalho, quilombos, ações judiciais, imprensa negra, associações e redes de apoio pressionaram o sistema. Abolicionistas como Luís Gama, José do Patrocínio e André Rebouças defenderam estratégias diferentes. Jangadeiros no Ceará se recusaram a transportar pessoas escravizadas; Ceará e Amazonas aboliram o cativeiro em 1884. Mulheres negras e de diversas classes participaram de redes de solidariedade e organização.
 
 13 de maio e depois
-A Lei Áurea, sancionada pela regente Isabel em 1888, extinguiu a escravidão sem indenização aos proprietários e sem política abrangente de terra, moradia, educação ou reparação para os libertos. Isabel apoiou redes abolicionistas e tomou decisões políticas importantes em 1888, aprofundadas nos dossiês seguintes. Reduzir a abolição a um gesto individual da princesa apaga o protagonismo de quem lutou pela liberdade; negar a importância jurídica da lei também obscurece uma ruptura real. O racismo e a desigualdade fundiária atravessaram a mudança de regime.
+A Lei Áurea, sancionada pela regente Isabel em 1888, extinguiu a escravidão sem indenização aos proprietários e sem política abrangente de terra, moradia, educação ou reparação para os libertos. Isabel escolheu o gabinete que apresentou o projeto, defendeu a extinção do cativeiro na Fala do Trono e sancionou a lei aprovada pelo Parlamento. A conquista reuniu essas decisões institucionais, a campanha abolicionista e a resistência das pessoas escravizadas. O racismo e a desigualdade fundiária atravessaram a mudança de regime.
 
 Redes e divergências
 Luís Gama explorou instrumentos judiciais e a ilegalidade da escravização; Joaquim Nabuco atuou no Parlamento e na imprensa; Patrocínio mobilizou campanhas públicas; Rebouças relacionou liberdade e acesso à terra. Essas trajetórias se cruzavam com iniciativas de pessoas escravizadas que não esperavam autorização dos dirigentes. No Ceará, a recusa dos jangadeiros em colaborar com o tráfico interno tornou visível a possibilidade de interromper materialmente o sistema.
@@ -334,16 +334,17 @@ Para um proprietário, gradualismo podia significar preservar patrimônio e trab
       "imp_lei_1885",
       "imp_lei_1888",
       "imp_abolicao",
-      "imp_trafico"
+      "imp_trafico",
+      "imp_publica_pesquisa"
     ],
     "text": `1831 e 1850: o tráfico nos portos
 A lei de 7 de novembro de 1831, durante as Regências, declarou livres os africanos desembarcados ilegalmente, mas foi amplamente desrespeitada. A Lei Eusébio de Queirós, sancionada no reinado de Pedro II em 4 de setembro de 1850, determinou apreensão de navios brasileiros e estrangeiros envolvidos no tráfico em portos e águas do Brasil. A abertura dos portos de 1808 é uma medida comercial diferente e não deve ser confundida com essa lei de repressão ao tráfico. Pressão britânica, conflitos diplomáticos, decisões do governo e resistência interna integraram sua aprovação e aplicação. Ela combateu o tráfico atlântico; não libertou automaticamente quem já era escravizado.
 
 1865–1871: iniciativas da Coroa e do Parlamento
-Em 1865, Pedro II pediu a elaboração de propostas para a emancipação. O decreto de 1866 libertou escravizados da nação aptos ao serviço do Exército, sob essa condição, e estendeu o benefício a suas esposas. A Lei do Ventre Livre, aprovada pelo Parlamento e sancionada pela regente Isabel em 1871, declarou livres os nascidos de mulheres escravizadas após sua vigência e libertos os escravizados da nação. A permanência de crianças sob controle senhorial e a supervisão estatal dos libertos mostram o alcance limitado e negociado dessas mudanças. Proprietários e representantes políticos combateram medidas que afetavam seu patrimônio e poder.
+Em 1865, Pedro II pediu a elaboração de propostas para a emancipação. O decreto de 1866 libertou escravizados da nação aptos ao serviço do Exército, sob essa condição, e estendeu o benefício a suas esposas. Decretos de 1870 ordenaram alforrias na Fazenda de Santa Cruz e a liberdade dos filhos nascidos de mulheres escravizadas sob usufruto da Casa Imperial. A Lei do Ventre Livre, aprovada pelo Parlamento e sancionada pela regente Isabel em 1871, declarou livres os nascidos de mulheres escravizadas após sua vigência e libertos os escravizados da nação. A permanência de crianças sob controle senhorial e a supervisão estatal dos libertos mostram o alcance limitado e negociado dessas mudanças. Proprietários e representantes políticos combateram medidas que afetavam seu patrimônio e poder.
 
 1885–1888: o fim do cativeiro
-A Lei dos Sexagenários de 1885 libertou pessoas acima de 60 anos, mas impôs condições e alcançou um grupo restrito. Na década de 1880, fugas, redes de proteção, campanhas públicas e tensões no trabalho tornaram a manutenção da escravidão cada vez mais difícil. A regente Isabel trocou o gabinete de Cotegipe pelo de João Alfredo e defendeu o fim do cativeiro na Fala do Trono de maio de 1888. Câmara e Senado aprovaram a Lei Áurea, sancionada por ela em 13 de maio. As decisões de Pedro II e Isabel foram parte relevante desse percurso; leis, pressão popular e resistência das pessoas escravizadas não podem ser substituídas por uma narrativa de concessão exclusivamente familiar.
+A Lei dos Sexagenários de 1885 libertou pessoas acima de 60 anos, mas impôs condições e alcançou um grupo restrito. Na década de 1880, fugas, redes de proteção, campanhas públicas e tensões no trabalho tornaram a manutenção da escravidão cada vez mais difícil. A regente Isabel trocou o gabinete de Cotegipe pelo de João Alfredo e defendeu o fim do cativeiro na Fala do Trono de maio de 1888. Câmara e Senado aprovaram a Lei Áurea, sancionada por ela em 13 de maio. Pedro II e Isabel participaram desse percurso dentro de suas atribuições constitucionais; gabinetes, parlamentares, movimentos sociais e pessoas escravizadas também atuaram sobre os rumos da reforma.
 
 O que as cláusulas efetivamente previam
 Pela lei de 1871, o senhor devia criar o filho da mulher escravizada até os oito anos; então podia optar por indenização estatal ou por utilizar seus serviços até os 21. A lei reconheceu pecúlio e caminhos para obter alforria, além de matrícula e fundo de emancipação. A aplicação exigia documentação e acesso à Justiça, em relações profundamente desiguais.
@@ -355,34 +356,35 @@ Aos sexagenários, a lei de 1885 impunha serviços por até três anos a título
     "id": "casa-imperial-escravidao",
     "period": "segundo-reinado",
     "title": "Casa Imperial, alforrias e escravizados da nação",
-    "date": "Século XIX, com documentos de 1869",
-    "deck": "Propriedade particular, usufruto e trabalho remunerado exigem distinções.",
+    "date": "1864–1888",
+    "deck": "Alforrias da Coroa, trabalho no patrimônio público e reforma parlamentar.",
     "refs": [
-      "imp_casa_1869",
-      "imp_opiniao_1869",
       "imp_publica_pesquisa",
+      "imp_constituicao",
+      "imp_fala_1888",
       "imp_decreto_1866",
       "imp_lei_1871",
       "imp_reg_1871",
-      "imp_abolicao"
+      "imp_abolicao",
+      "imp_opiniao_1869"
     ],
-    "text": `O que dizia a Casa Imperial
-Em resposta pública de 1869, a Mordomia da Casa Imperial afirmou que Pedro II não possuía pessoas escravizadas como propriedade particular e que a Casa tinha o usufruto de escravizados “da nação”, pertencentes ao Estado. A mesma resposta registrou alforrias, algumas gratuitas e outras mediante pagamento, e afirmou que havia pessoas escravizadas ainda a serviço da Casa. Trata-se de uma fonte primária produzida pela própria administração imperial: esclarece sua posição jurídica e, ao mesmo tempo, exige confronto com outros registros.
+    "text": `Propriedade particular e patrimônio da nação
+Na controvérsia publicada pela imprensa em 1868–1869, a Mordomia da Casa Imperial declarou que Pedro II não era proprietário particular de pessoas escravizadas. A Fazenda de Santa Cruz e a Quinta da Boa Vista integravam o patrimônio da nação; a Coroa tinha o usufruto de seus serviços. O deputado Tavares Bastos já distinguia essas condições em 1866, ao elogiar as alforrias custeadas pessoalmente pelo imperador. Propriedade estatal e usufruto eram categorias jurídicas da época e devem ser identificadas separadamente.
 
-Onde trabalhavam
-Os escravizados da nação estavam distribuídos por fazendas, fábricas, estabelecimentos militares e repartições. A Fazenda de Santa Cruz e a Quinta da Boa Vista estavam ligadas ao usufruto da Coroa. Assim, a afirmação de que só restavam pessoas escravizadas em repartições públicas não corresponde à documentação. O trabalho assalariado também existia nas residências e no serviço estatal, mas pagar remuneração a alguns trabalhadores — ou mesmo quantias a pessoas ainda escravizadas — não equivalia a libertar todos os que serviam à Casa.
+O trabalho nos estabelecimentos
+Os escravizados da nação trabalhavam em fazendas, fábricas, estabelecimentos militares e repartições. Registros da Fazenda de Santa Cruz e do Palácio de São Cristóvão identificam pessoas a serviço da Casa Imperial, inclusive em atividades domésticas. Havia também empregados livres e remunerados. A resposta da Mordomia mencionou gratificações semanais pagas a alguns trabalhadores ainda escravizados; gratificação, salário de pessoa livre e carta de alforria tinham efeitos jurídicos distintos. As condições variavam conforme a pessoa, o local e o ano.
 
-Iniciativas e seus limites
-O Arquivo Nacional registra que Pedro II solicitou, em 1865, propostas legislativas sobre a emancipação. Em 1866, o governo autorizou a liberdade de escravizados da nação aptos a servir na Guerra do Paraguai, estendida a suas mulheres quando casados; a condição de serviço militar também precisa ser considerada. A Lei do Ventre Livre, sancionada por Isabel em 1871, declarou libertos os demais escravizados da nação, mas o regulamento previu supervisão estatal e ocupação designada por cinco anos. Alforrias e propostas de reforma documentam iniciativas da Coroa, mas ocorreram dentro de um regime que continuou escravista até 1888.
+Alforrias promovidas por Pedro II
+Documentos do Fundo Casa Real e Mordomia-mor, examinados pela historiadora Ilana Peliciari Rocha, registram alforrias ligadas aos casamentos de Isabel e Leopoldina em 1864. Tavares Bastos afirmou que Pedro II pagava do próprio bolso pela libertação de escravizados da nação, cujo valor precisava ser recolhido ao patrimônio público. Em maio de 1870, um decreto imperial determinou que filhos nascidos de mulheres escravizadas sob usufruto da Casa fossem avaliados e libertados, com sustento e educação a cargo da Casa até poderem trabalhar. Em novembro do mesmo ano, Pedro II ordenou cartas de liberdade gratuitas para 159 pessoas da Fazenda de Santa Cruz. São atos documentados de emancipação anterior à Lei do Ventre Livre.
 
-Crítica contemporânea e limite da conclusão
-O jornal abolicionista Opinião Liberal contestou a defesa da Mordomia em 1869: mesmo sem propriedade privada, o imperador se beneficiava do trabalho de cativos públicos e tinha influência política sobre sua emancipação. A documentação permite reconhecer alforrias e diferenças entre propriedade e usufruto; não sustenta a frase geral de que todos os trabalhadores negros da família imperial já eram libertos e assalariados. A pesquisa histórica distingue as condições de cada pessoa, instituição e data.
+Reforma legal e resistência
+Pedro II solicitou propostas de emancipação em 1865. O decreto de 1866 libertou escravizados da nação destinados ao serviço militar e estendeu a medida a suas esposas; o vínculo com a guerra fazia parte da norma. A Lei do Ventre Livre de 1871, aprovada pela Assembleia e sancionada por Isabel como regente, libertou juridicamente os demais escravizados da nação. O regulamento ainda estabeleceu supervisão e ocupação designada por cinco anos. As medidas resultaram de iniciativas da Coroa, debates parlamentares e pressão social; enfrentaram resistência de setores ligados à propriedade escravista.
 
-Como acompanhar trajetórias individuais
-Uma pesquisa completa deve cruzar a resposta da Mordomia com inventários, matrículas, cartas de alforria, folhas de pagamento e registros de Santa Cruz. Um mesmo trabalhador pode aparecer em momentos sucessivos como escravizado da nação, liberto sujeito à supervisão e empregado remunerado. Nomes semelhantes e a omissão de vínculos familiares também exigem cuidado. Não se pode generalizar a condição documentada para Pedro II em 1869 a todos os membros da dinastia e a todas as décadas.
+Poder da Coroa e decisão parlamentar
+A Constituição de 1824 atribuía à Assembleia Geral a elaboração das leis, com sanção imperial. O Poder Moderador permitia ao monarca nomear e demitir ministros, escolher senadores a partir de listas e dissolver a Câmara nas condições previstas. Pedro II podia orientar gabinetes, apoiar projetos e sancionar leis, mas não decretar sozinho a abolição geral. A atuação de Isabel em 1871 e 1888 deve ser compreendida nesse arranjo: iniciativa política efetiva, negociação com ministros e votação parlamentar.
 
-Responsabilidade institucional
-A distinção entre patrimônio particular e estatal importa para entender a lei, mas não elimina a responsabilidade de quem usufruía do trabalho e influenciava a política de emancipação. Reconhecer alforrias e iniciativas reformadoras exige igualmente reconhecer a duração e as condições dessas relações. Esse enquadramento permite avaliar as ações da família imperial sem transformar uma resposta administrativa em comprovação de ausência de participação no sistema escravista.`
+Debate público da própria época
+O jornal abolicionista Opinião Liberal reconheceu a diferença entre propriedade particular e usufruto estatal, mas questionou, em 1869, o emprego de cativos da nação em benefício da Casa. Sua crítica integra a disputa política contemporânea. Os registros de alforria, a declaração da Mordomia e a situação jurídica dos trabalhadores documentam dimensões distintas dessa história. Na votação da Lei Áurea, senadores como o Barão de Cotegipe e Paulino de Souza defenderam abertamente os interesses de proprietários de pessoas escravizadas e se opuseram ao projeto. Essa oposição parlamentar e econômica tinha peso direto na manutenção do cativeiro.`
   },
   {
     "id": "isabel-camelias",
@@ -393,24 +395,27 @@ A distinção entre patrimônio particular e estatal importa para entender a lei
     "refs": [
       "imp_isabel_museu",
       "imp_isabel_bn",
+      "imp_isabel_bndigital",
+      "imp_isabel_promonarquia",
+      "imp_camelias_1889",
       "imp_fala_1888",
       "imp_lei_aurea",
       "imp_abolicao"
     ],
     "text": `Um quilombo urbano e sua rede
-Na chácara de José de Seixas Magalhães, no Leblon, pessoas que fugiam da escravidão encontravam proteção e cultivavam camélias. O lugar integrava redes mais amplas de abolicionistas da capital. As flores passaram a circular como símbolo de solidariedade e de oposição ao cativeiro. A história do quilombo começa pela ação dos próprios fugitivos e de quem organizava abrigo e apoio, não pela presença da corte.
+Na chácara de José de Seixas Magalhães, no Leblon, pessoas que fugiam da escravidão encontravam proteção e cultivavam camélias. O lugar integrava redes abolicionistas da capital. As flores tornaram-se símbolo reconhecível de solidariedade aos fugitivos e de oposição ao cativeiro. A manutenção do refúgio dependia do trabalho das pessoas abrigadas, de recursos, de contatos e de proteção política.
 
 O gesto público da princesa
-Estudos do Museu Imperial documentam a ligação de Isabel com as camélias do Leblon; o Senado registra sua atuação política abolicionista. Ela recebia as flores e as utilizava publicamente em roupas e ambientes da corte. Uma flor reconhecida como sinal abolicionista, usada por uma herdeira do trono, tinha peso político. Relatos sobre proteção a fugitivos devem ser atribuídos a suas fontes e avaliados separadamente; o gesto simbólico não substituía a ação dos quilombolas.
+O Museu Imperial documenta a circulação das camélias entre o Leblon e as residências da família. A Biblioteca Nacional registra que Isabel apoiava a comunidade, financiava alforrias com recursos próprios e usava a flor nos cabelos em eventos da corte. Uma notícia publicada em 1889 recordou a entrega de camélias brancas à regente, em 3 de maio de 1888, em nome dos quilombolas do Leblon. Usar publicamente o emblema do movimento associava a herdeira do trono à causa abolicionista em um momento de conflito político.
 
 Da aliança à lei
-Na regência de 1888, Isabel substituiu o gabinete de Cotegipe pelo de João Alfredo, favorável à abolição. Em 3 de maio, sua Fala do Trono pediu ao Parlamento a extinção do cativeiro. O projeto avançou rapidamente e ela sancionou a Lei Áurea em 13 de maio. A lei, o discurso e os documentos do movimento mostram uma atuação política real da princesa, em interação com fugas, associações, imprensa, parlamentares e mobilização popular; não permitem atribuir-lhe sozinha a conquista da liberdade.
+Na regência de 1888, Isabel substituiu o gabinete de Cotegipe pelo de João Alfredo, favorável à abolição. Em 3 de maio, sua Fala do Trono pediu ao Parlamento a extinção do cativeiro. O gabinete apresentou o projeto, Câmara e Senado o aprovaram e ela sancionou a Lei Áurea em 13 de maio. Sua escolha ministerial, a mensagem ao Parlamento e a sanção foram decisões decisivas da chefia do Estado, articuladas com a ação dos parlamentares abolicionistas e com a mobilização de pessoas escravizadas, libertas e apoiadores.
 
 Uma linguagem política reconhecível
-O uso de camélias permitia declarar uma posição em salões, ruas e cerimônias. O símbolo ligava pessoas de condições sociais diferentes, mas não anulava as diferenças de risco: fugitivos podiam ser capturados, enquanto protetores com prestígio tinham mais meios para enfrentar autoridades. Isabel ajudou a dar visibilidade a uma rede cuja existência dependia de abrigo, circulação de informação e recursos materiais.
+O uso de camélias declarava uma posição em salões, ruas e cerimônias. Entre os participantes da rede havia fugitivos expostos à captura, organizadores do abrigo, jornalistas e figuras de prestígio com acesso à corte. A adesão pública de Isabel ampliava a visibilidade e a proteção política do movimento; o cultivo e a circulação das flores ligavam essas posições sociais distintas.
 
 Documento, símbolo e lembrança posterior
-É útil separar três níveis: o cultivo e a rede do Leblon; os registros de adesão da princesa; e as narrativas comemorativas que depois concentraram a história na imagem da “Redentora”. A popularidade de Isabel entre libertos é historicamente relevante, assim como a presença de abolicionistas republicanos. A aproximação com a Coroa era uma escolha política de certos participantes, não prova de que todo o movimento tivesse a mesma preferência institucional.`
+Depois de 1888, a imagem de Isabel como “Redentora” ganhou força nas comemorações. A fotografia com camélia, os registros de apoio ao Leblon, as iniciativas de alforria e os atos de governo documentam seu engajamento. A Pró Monarquia preserva a interpretação favorável à atuação da família imperial; sua narrativa é identificada como memória institucional da Casa, ao lado dos documentos de época e dos acervos públicos. A rede abolicionista reunia também pessoas escravizadas e libertas, ativistas negros, jornalistas e parlamentares com posições diferentes sobre o futuro da monarquia.`
   },
   {
     "id": "pos-abolicao-projetos",
@@ -430,7 +435,7 @@ Documento, símbolo e lembrança posterior
 A Lei Áurea extinguiu o cativeiro, mas não criou uma política nacional de terra, educação ou compensação para quem havia sido escravizado. Abolicionistas como André Rebouças defenderam acesso à terra e outras medidas de integração. Propostas de colônias agrícolas e desapropriação circularam no fim do Império; não foram convertidas em uma política geral antes de novembro de 1889. Assim, é preciso distinguir intenção, projeto apresentado, lei aprovada e ação executada.
 
 A carta atribuída a Isabel
-Uma carta datada de agosto de 1889 e atribuída à princesa Isabel menciona doação de fundos e terras para indenizar libertos. O documento foi divulgado e utilizado para sustentar a hipótese de um plano reparatório da herdeira. Pesquisadores, porém, contestam sua autenticidade, que não está definitivamente estabelecida. Por isso, a carta não prova, por si, que existisse um programa oficial de indenização aprovado e pronto para execução, nem permite afirmar com segurança que a República cancelou tal programa. A proposta de reparar os libertos e a controvérsia documental devem ser mostradas juntas.
+Uma carta datada de agosto de 1889 e atribuída à princesa Isabel menciona doação de fundos e terras para indenizar libertos. A autenticidade do documento é contestada por pesquisadores. Os projetos de integração apresentados no fim do Império e a carta atribuída à herdeira pertencem a conjuntos documentais diferentes. Até novembro de 1889 não havia sido aprovada uma política geral de reparação aos libertos.
 
 A República e a exclusão
 Após a derrubada da monarquia, a República não instituiu uma reparação abrangente aos ex-escravizados e suas famílias. A concentração de terras, o racismo e a ausência de educação pública ampla limitaram o exercício da liberdade. Quanto ao voto, a sequência é específica: a Lei Saraiva de 1881, ainda imperial, excluiu os analfabetos; a Constituição republicana de 1891 manteve essa barreira. Assim, a República perpetuou uma exclusão decisiva, mas não foi ela que a criou. A restrição de 1881 atingiu homens livres pobres e impediu que grande parte dos libertos recém-emancipados viesse a votar.
@@ -454,16 +459,21 @@ Reunir famílias, escolher onde morar, negociar contratos e organizar associaç�
       "imp_eleicoes",
       "imp_abolicao",
       "imp_plebiscito",
-      "imp_popularidade"
+      "imp_popularidade",
+      "imp_imprensa_segundo",
+      "imp_fala_1888"
     ],
     "text": `Alianças em transformação
-O republicanismo cresceu em clubes, jornais e setores provinciais; não havia um projeto republicano único. A abolição abalou parte da aliança entre monarquia e proprietários escravistas, embora muitos tenham permanecido monarquistas. O Exército, fortalecido pela guerra, reivindicava autonomia e criticava punições e interferências políticas. O conflito entre bispos e governo na Questão Religiosa expôs tensões do padroado, mas a Igreja tampouco assumiu uma posição uniforme.
+O republicanismo cresceu em clubes, jornais e setores provinciais; seus participantes tinham projetos diferentes. A abolição sem indenização retirou da monarquia o apoio de parte dos grandes proprietários de pessoas escravizadas. A defesa da propriedade e da continuidade do trabalho compulsório havia orientado a oposição de representantes da lavoura a projetos emancipatórios, como mostram os debates de 1888. Nem todos os antigos escravistas aderiram à República, e a perda desse apoio não explica sozinha o golpe. O Exército, fortalecido pela guerra, reivindicava autonomia e criticava punições e interferências políticas. A Questão Religiosa expôs tensões entre bispos e governo, sem produzir posição uniforme da Igreja.
 
 A ruptura de 1889
 Em 15 de novembro, tropas comandadas por Deodoro da Fonseca derrubaram o gabinete imperial e sustentaram a proclamação republicana, com participação de civis. A monarquia foi deposta e a família imperial enviada ao exílio. Não houve plebiscito ou eleição popular prévia que decidisse a mudança. O novo governo suspendeu pilares da ordem de 1824.
 
 Continuidade e mudança
-A República alterou instituições e, depois, separou Igreja e Estado, mas herdou concentração fundiária, desigualdade racial e exclusões políticas. Não instituiu reparação geral para libertos e manteve a vedação ao voto dos analfabetos criada pela Lei Saraiva de 1881. Não se deve apresentar sua chegada como efeito automático da abolição, da guerra ou de uma suposta fadiga pessoal de Pedro II: foram processos relacionados, articulados em uma conjuntura específica.
+A República alterou instituições e, depois, separou Igreja e Estado, mas herdou concentração fundiária, desigualdade racial e exclusões políticas. Não instituiu reparação geral para libertos e manteve a vedação ao voto dos analfabetos criada pela Lei Saraiva de 1881. A mudança de regime resultou da articulação entre militares e civis republicanos em meio à crise de alianças, para a qual a reação de setores proprietários à abolição foi um fator importante.
+
+Imprensa e debate político
+Pedro II foi alvo de críticas e charges em jornais durante o Segundo Reinado. O Arquivo do Senado registra caricaturas desfavoráveis ao monarca e uma carta na qual ele defendeu responder publicamente aos ataques da imprensa. Nas questões emancipatórias, Pedro II e Isabel influíam por escolhas de gabinete, mensagens e sanção; a Assembleia precisava aprovar as leis. O Poder Moderador não autorizava o monarca a substituir sozinho a votação parlamentar.
 
 A sucessão e o último gabinete
 A perspectiva de um Terceiro Reinado colocava Isabel, sua atuação abolicionista e o papel do conde d’Eu no centro das expectativas e rejeições. O gabinete Ouro Preto tentou responder à crise com reformas, mas enfrentou adversários e desconfianças militares. O golpe foi uma ação de atores identificáveis em uma conjuntura de perda de apoio: o apoio popular à família não se converteu em força organizada capaz de impedir a deposição.

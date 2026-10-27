@@ -28,7 +28,7 @@ Os três panoramas e os 32 dossiês imperiais incluem imagens do Wikimedia Commo
 
 ## Método editorial
 
-Cada período apresenta panorama, grupos sociais, governantes e referências. Os dossiês aprofundam acontecimentos e distinguem texto legal, prática histórica e interpretação. No tema da escravidão, a documentação da Casa Imperial é apresentada junto com a crítica abolicionista contemporânea e a pesquisa histórica: ausência de propriedade particular não equivale à ausência de trabalho escravizado em benefício da Casa. A atuação de Isabel é documentada ao lado do protagonismo das pessoas escravizadas e das redes abolicionistas.
+Cada período apresenta panorama, grupos sociais, governantes e referências. Os dossiês aprofundam acontecimentos e distinguem texto legal, prática histórica e interpretação. O dossiê da Casa Imperial apresenta a condição jurídica dos escravizados da nação, os estabelecimentos em que trabalhavam, as alforrias documentadas e o debate público contemporâneo. Os textos sobre a abolição situam as decisões de Pedro II e Isabel nas atribuições constitucionais da Coroa, nas votações parlamentares e na mobilização social. Documentos da época e acervos públicos têm prioridade na apuração. Fontes monarquistas ajudam a registrar a perspectiva da família imperial; jornais adversários são identificados como participantes das disputas políticas de seu tempo.
 
 ## Ampliação do Império — 27/10/2026
 
