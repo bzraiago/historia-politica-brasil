@@ -5,6 +5,10 @@ const vm = require('node:vm');
 
 const root = path.resolve(__dirname, '..');
 const html = fs.readFileSync(path.join(root, 'index.html'), 'utf8');
+const iconPath = html.match(/<link rel="icon" type="image\/svg\+xml" href="([^"]+)"/);
+assert.ok(iconPath, 'Favicon SVG não está declarado em index.html');
+assert.ok(fs.existsSync(path.join(root, iconPath[1])), 'Arquivo de favicon não existe');
+assert.match(fs.readFileSync(path.join(root, iconPath[1]), 'utf8'), /<svg[^>]+viewBox="0 0 64 64"/);
 const scripts = [...html.matchAll(/<script src="([^"]+)"/g)].map(match => match[1]);
 const elements = new Map();
 const getElement = selector => {
